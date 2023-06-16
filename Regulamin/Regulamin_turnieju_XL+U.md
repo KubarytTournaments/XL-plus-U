@@ -390,7 +390,7 @@ TBD
 > 
 > Drużyny: Brak drużyn
 > 
-> Typ drogi: //Do wpisania
+> Typ drogi: Tylko średnie drogi (opcja po środku)
 > 
 > Woda: Brak
 > 
@@ -406,7 +406,7 @@ TBD
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, //Do wpisania (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 19:00+8:00+1:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
 > 
