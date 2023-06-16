@@ -125,7 +125,7 @@ TBD
 - Kalkulatory value: Dozwolone
 - Kalkulatory damage: Dozwolone
 - Strony wiki: Dozwolone
-- Nagranie swojego streama: Zabronione
+- Oglądanie swojego streama lub nagrania z danej Partii w trakcie jej trwania: Zabronione
 - Screenshoty: Zabronione
 - Poradniki wideo: Dozwolone
 - Własne notatki o grze: Dozwolone
@@ -194,12 +194,13 @@ TBD
 ### Załącznik nr 2
 
 1. Definicje
-- Mecz - spotkanie online między dwoma Graczami rozgrywane w ramach Turnieju w Grze
+- Partia - spotkanie online między dwoma Graczami rozgrywane w ramach Turnieju w Grze
 - Streamer - osoba transmitująca swój Mecz
 - Oficjalna funkcja w Turnieju - funkcja związana z czynnościami kojarzonymi bezpośrednio z Turniejem:
   - Komentator
   - Host
   - Członek Komitetu
+- Mecz - wszystkie Partie rozgrywane między danymi Graczami w danej fazie Turnieju
 
 ### Załącznik nr 3
 
