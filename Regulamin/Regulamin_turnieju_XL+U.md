@@ -488,3 +488,14 @@ TBD
 
 ### Załącznik nr 5
 
+#### Krok 1. Gospodarz przypisuje zamki do szablonów
+
+![](https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/templrandbanning1.png)
+
+#### Krok 2. Gospodarz wyklucza z losowania zamki bez przypisanych szablonów
+
+![](https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/templrandbanning2.png)
+
+#### Krok 3. Gospodarz dokonuje losowania 2 zamków, szablony im przypisane zostają zbanowane
+
+![](https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/templrandbanning3.png)
