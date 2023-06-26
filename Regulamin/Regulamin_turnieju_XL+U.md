@@ -12,7 +12,9 @@
 
 0.5 Terminy użyte w Regulaminie, jednak nie zdefiniowane w nim, których definicja różni się od ogólnie przyjętej zdefiniowane są w [Załączniku nr 2](#załącznik-nr-2)
 
-0.6 Komitet może wydawać Orzeczenia, sposób wydawania Orzeczeń i ich kształ reguluje [Załącznik nr 3](#załącznik-nr-3)
+0.6 Komitet może wydawać Orzeczenia, sposób wydawania Orzeczeń i ich kształt reguluje [Załącznik nr 3](#załącznik-nr-3)
+
+0.7 Politykę prywatności Turnieju określa [Załącznik nr 6](#załącznik-nr-6)
 
 ## 1. Postanowienia Ogólne
 
@@ -36,7 +38,7 @@ TBD
 
 1.4 Komitet ma niewyłączne i niezbywalne prawo do retransmisji, nagrywania i udostępniania wybranych meczów rozgrywanych w ramach Turnieju. Komitet może dzielić się tym prawem z osobami trzecimi.
 
-1.5 Oficjalnym kanałem komunikacyjnym turnieju jest serwer Discord `Kubaryt Tournaments` [link](https://discord.com/invite/nm9bXJMc5c) (Dalej nazywany Discordem)
+1.5 Oficjalnym kanałem komunikacyjnym turnieju jest serwer Discord `H3GG` [link](https://discord.gg/r6dS4D9edd) (Dalej nazywany Discordem)
 
 ## 2. Format Turnieju i terminarz
 
@@ -164,9 +166,9 @@ TBD
 - Po zakończeniu meczu gracze są zobowiązani do podania haseł, które chronią zapisy gry.
 
 - Przydatne linki:
-  - [Discord turnieju](https://discord.gg/nm9bXJMc5c)
+  - [Discord turnieju](https://discord.gg/r6dS4D9edd)
   - [Github turnieju](https://github.com/KubarytTournaments/XL-plus-U)
-  - `[Strona turnieju](link do strony na h3gg)`
+<!--  -[Strona turnieju](link do strony na h3gg) -->
 
 ## Załączniki
 
@@ -500,3 +502,23 @@ TBD
 #### Krok 3. Gospodarz dokonuje losowania 2 zamków, szablony im przypisane zostają zbanowane
 
 ![](https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/templrandbanning3.png)
+
+### Załącznik nr 6
+
+To jest nasza Polityka Prywatności, która zawiera informacje o tym jakie dane zbieramy i przechowujemy, a także w jaki sposób je wykorzystujemy. Za każdym razem kiedy zwracamy się w drugiej osobie, mamy na myśli wszystkich Graczy. Za każdym razem kiedy zwracamy się w pierwszej osobie, mamy na myśli Komitet.
+Od czasu do czasu możemy zaktualizować Politykę Prywatności. Zmiany będą miały efekt tuż po wprowadzeniu. Jeżeli nie zgadzasz się z niniejszą Polityką Prywatności, nie uczestnicz w Turnieju.
+
+#### Jakie dane zbieramy
+Dane zbierane automatycznie: W przypadku interakcji z jakimikolwiek usługami należącymi do Ligi, możemy automatycznie zbierać i przechowywać dane, między innymi takie jak adres IP.
+Dane które nam podajesz: Zbieramy twoje dane wtedy kiedy nam je podajesz, przykładowo kiedy rejestrujesz się jako Gracz. Przykładami informacji jakie zbieramy w ten sposób jest Twój nickname i unikatowy identyfikator konta Discord, adres e-mail, raporty z meczów, oraz jakiekolwiek inne dane jakimi się z nami dzielisz.
+Retransmisje: Możemy dokonywać retransmisji i nagrywać wybrane mecze w celu udostępniania komentarza oraz archiwizacji. Podczas swojej transmisji, możesz udostępniać dane umożliwiające Twoją identyfikację, na przykład nagranie z kamery. Dajesz nam niezbywalne prawo do posługiwania się tymi danymi - ale w przypadku uzasadnionej przyczyny możemy usunąć część z nich.
+#### Usługi osób trzecich
+Możemy używać usług osób trzecich, wliczając w to systemy zarządzania turniejami i komunikatory. Nasza Polityka Prywatności nie aplikuje się do tychże usług.
+#### W jaki sposób używamy danych
+Używamy zebranych danych aby umożliwić organizację, promocję i archiwizację Turnieju.
+#### Dzieci
+Nie zbieramy danych od osób poniżej wieku 13 lat lub poniżej wieku zgody cyfrowej. Jeżeli należysz do tej grupy osób, nie możesz uczestniczyć w Turnieju. Jeżeli uzyskamy wiedzę o tym że zbieraliśmy dane osób poniżej tego wieku, w miarę naszych możliwości usuniemy wszelkie dane od takiej osoby.
+#### Bezpieczeństwo
+Dokonujemy starań żeby zapewnić bezpieczeństwo przechowywania danych. Trzeba mieć jednak na uwadze że żadna forma komunikacji - fizyczna czy elektroniczna - nie jest pozbawiona błędów ani nie jest stuprocentowo bezpieczna. Z tego powodu powinieneś/powinnaś zachować ostrożność w decydowaniu o tym jakie dane nam udostępniasz.
+#### Kontakt
+Jeżeli chcesz poprosić o swoje dane, czy też je zmodyfikować lub usunąć, możesz się z nami skontaktować za pośrednictwem komunikatora Discord (kubaryt) lub za pomocą poczty elektronicznej (kubarytcup@gmail.com). W przypadku kontaktowania się drogą mailową, należy rozpocząć tytuł wiadomości słowami “DATA REQUEST” - w innym przypadku wiadomość zostanie zignorowana. Po złożeniu prośby, możemy dokonać odpowiednich kroków w celu dodatkowej weryfikacji.
