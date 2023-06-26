@@ -4,7 +4,7 @@
 
 0.1 XL+U (dalej zwany Turniejem) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). O zasadach Turnieju stanowi Regulamin turnieju XL+U (dalej zwany Regulaminem) oraz załączone do niego dokumenty.
 
-0.2 Liga organizowana jest przez Komitet Sędziowski (dalej zwany Komitetem). O sposobie działania Komitetu oraz jego składzie stanowi [Załącznik nr 1](#załącznik-nr-1)
+0.2 Turniej organizowana jest przez Komitet Sędziowski (dalej zwany Komitetem). O sposobie działania Komitetu oraz jego składzie stanowi [Załącznik nr 1](#załącznik-nr-1)
 
 0.3 Polskojęzyczna wersja Regulaminu jest obowiązująca. Jeżeli w angielskojęzyczna wersja Regulaminu jest sprzeczna z polskojęzyczną, to należy postępować wedle polskojęzycznej wersji Regulaminu.
 
