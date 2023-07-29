@@ -22,7 +22,11 @@
 
 1.2 Pula nagród Turnieju:
 
-TBD
+I miejsce: 500 zł
+II miejsce: 300 zł
+III miejsce: 200 zł
+
+*Pula nagród może ulec zmianie w trakcie turnieju*
 
 1.3 Komitet zastrzega sobie prawo do niedopuszczenia wybranego Gracza do Turnieju, w szczególności jeśli:
 
@@ -55,10 +59,15 @@ TBD
   - Każda runda Górnej Drabinki będzie trwać 2 tygodnie z zastrzeżeniem Załącznika nr 3.
   - Od fazy 1/4 finału transmitowanie swoich gier jest obowiązkowe.
 - Faza Dolnej Drabinki:
-  - Zwycięzca meczu przechodzi do następnej rundy Górnej Drabinki, przegrany przechodzi do Dolnej Drabinki.
+  - Zwycięzca meczu przechodzi do następnej rundy Dolnej  Drabinki, przegrany przechodzi do Dolnej Drabinki.
   - Obowiązuje Bo1.
   - Każda runda Górnej Drabinki będzie trwać tydzień z zastrzeżeniem Załącznika nr 3.
   - Od fazy 1/4 finału transmitowanie swoich gier jest obowiązkowe
+- Finał Fazy Pucharowej odbywa się między zwycięzcą Dolnej Drabinki a zwycięzcą Górnej Drabinki:
+  - Obowiązuje Bo5.
+  - Czas na fazę do 3 tygodnie.
+  - Zwycięzca Górnej Drabinki zaczyna z jednym punktem przewagi.
+  - Transmitowanie swoich gier jest obowiązkowe.
 
 2.4 Każdy Gracz ma prawo do poddania dowolnej liczby Meczów i Partii w ciągu całej Fazy Pucharowej.
 
@@ -88,7 +97,8 @@ TBD
 - Gospodarz losuje 2 szablony, które zostaną zbanowane. Przykładowy sposób dokonania takiego banowania przedstawiony został w [Załącznik nr 5](#załącznik-nr-5).
 - Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA. 
   - W przypadku Bo1 gracze banują szablony do pozostawienia jednego szablonu. 
-  - W przypadku Bo3 gracze banują szablonu do pozostawienia trzech szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach
+  - W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach. 
+  - W przypadku Bo5 w Finale Fazy Pucharowej zwycięzca Górnej Drabinki jako pierwszy wybiera szablon z pozostałych po losowaniu. Wybrany przez niego szablon zostaje przez niego wygrany w ramach jednego punktu przewagi. Szablony w następnych grach wybierane są przez graczy na przemian zaczynając od zwycięzcy Dolnej Drabinki. Wszystkie gry muszą odbyć się na różnych szablonach. 
   - Za zgodą obu Graczy można rozegrać grę na innej wersji szablonu niż domyślna, zaleca się ustalenie preferowanej wersji szablonu przed rozpoczęciem wyboru szablonów.
 
 3.6 Wybór koloru oraz zamku:
