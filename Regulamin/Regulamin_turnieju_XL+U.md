@@ -236,7 +236,7 @@ III miejsce: 200 zł
 - Przedłużenia terminów - informuje o zmianach w Terminarzu
 - Komitet Sędziowski - informuje o postanowieniach związanych ze składem Komitetu
 - Regulamin - informuje o postanowianiach związanych z Regulaminem
-- Wyjatki od Regulaminu - informuje o postanowieniach związanych z punktem 0.4 Regulaminu
+- Wyjatki od Regulaminu - informuje o postanowieniach związanych z punktem 0.4 Regulaminu i planowanych zmianach Regulaminu
 - Postanowienia - informuje o innych postanowieniach
 
 ### Załącznik nr 4
