@@ -44,7 +44,7 @@ TBD
 
 2.1 Turniej składać będzie się z dwóch faz: Zapisów i Fazy Pucharowej
 
-2.2 Zapisy rozpoczną się TBD i potrwają do TBD. Odbędą się one za pośrednictwem strony www.h3.gg/
+2.2 Zapisy rozpoczną się 1.08.2023 i potrwają do 14.08.2023. Odbędą się one za pośrednictwem strony www.h3.gg/
 
 2.3 Przebieg Fazy Pucharowej:
 
@@ -62,9 +62,9 @@ TBD
 
 2.4 Każdy Gracz ma prawo do poddania dowolnej liczby Meczów i Partii w ciągu całej Fazy Pucharowej.
 
-## 4. Rozgrywka
+## 3. Rozgrywka
 
-4.1 Szablonami map losowych obowiązującymi w rozgrywkach Turnieju są:
+3.1 Szablonami map losowych obowiązującymi w rozgrywkach Turnieju są:
 
 - 6lm10tp 1.0.1 [Link do pobrania](https://drive.google.com/drive/folders/16d8AzGbxMpGz7Efy9c9bS7lgr80dFj8i)
 - Nostalgia TP [Link do pobrania](https://drive.google.com/drive/folders/1es6bZJ73pwcjw02NwuuWH7n4rwIyygS9)
@@ -74,16 +74,16 @@ TBD
 - Sapphire 1.6a [Link do pobrania](https://drive.google.com/file/d/1gx1RYghCmuBFFBgO9hms-Vqb0AjA9xMM/view)
 - Kubaryt 1.2a [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
 
-4.2 Ustawienia szablonów reguluje [Załącznik nr 4](#załącznik-nr-4)
+3.2 Ustawienia szablonów reguluje [Załącznik nr 4](#załącznik-nr-4)
 
-4.3 Partie powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Grze. W przypadku gdy HotA Lobby nie jest dostępne Partię można rozegrać za pośrednictwem Hamachi lub Game Rangera.
+3.3 Partie powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Grze. W przypadku gdy HotA Lobby nie jest dostępne Partię można rozegrać za pośrednictwem Hamachi lub Game Rangera.
 
-4.4 Przygotowanie rozgrywki:
+3.4 Przygotowanie rozgrywki:
 
 - Jeden z Graczy zakłada pokój w HotA lobby (będzie on gospodarzem), drugi Gracz dołącza do założonego przez gospodarza pokoju w lobby (będzie on gościem)
 - Gość wybiera cyfrę 1 lub 0, gospodarz za pośrednictwem opcji Coin Flip losuje cyfrę 1 lub 0.
 
-4.5 Wybór szablonów:
+3.5 Wybór szablonów:
 
 - Gospodarz losuje 2 szablony, które zostaną zbanowane. Przykładowy sposób dokonania takiego banowania przedstawiony został w [Załącznik nr 5](#załącznik-nr-5).
 - Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA. 
@@ -91,17 +91,17 @@ TBD
   - W przypadku Bo3 gracze banują szablonu do pozostawienia trzech szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach
   - Za zgodą obu Graczy można rozegrać grę na innej wersji szablonu niż domyślna, zaleca się ustalenie preferowanej wersji szablonu przed rozpoczęciem wyboru szablonów.
 
-4.6 Wybór koloru oraz zamku:
+3.6 Wybór koloru oraz zamku:
 
 - Wylosowanie miast następuje przez opcję Random Town vs Random Town, w przypadku wylosowania dwóch identycznych miast, losowanie należy powtórzyć.
 - Gracze mogą zażądzać ponownego losowania miast (tzw. *reroll*) i zbanowania 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Gracza. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie.
 - Licytację o miasto oraz o kolor rozpoczyna gracz, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
 
-## 5. Restarty
+## 4. Restarty
 
-5.1 Pierwszą decyzję o restarcie podejmuje gracz czerwony, a następnie gracz niebieski. (Jeśli nastąpi sytuacja, kiedy gracz niebieski odda turę z chęcią restartu, a następnie gracz czerwony odda turę i nastąpi kolejny dzień, gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie gracz niebieski jest zobowiązany do grania mapy).
+4.1 Pierwszą decyzję o restarcie podejmuje gracz czerwony, a następnie gracz niebieski. (Jeśli nastąpi sytuacja, kiedy gracz niebieski odda turę z chęcią restartu, a następnie gracz czerwony odda turę i nastąpi kolejny dzień, gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie gracz niebieski jest zobowiązany do grania mapy).
 
-5.2 Graczom przysługją tzw. restarty techniczne, które dostępne są jeżeli:
+4.2 Graczom przysługją tzw. restarty techniczne, które dostępne są jeżeli:
 
 - Mapa jest zbugowana, np. brakuje jakiegoś portalu*
 - Na drodze znajduje się strażnik, który blokuje całe przejście, a pokonanie go będzie skutkowało utratą co najmniej 70% wojska.
@@ -109,15 +109,15 @@ TBD
 
 **Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
 
-5.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
+4.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
 
-5.4  Restarty wczesnego spotkania. Jeśli nastąpi interakcja między graczami w zbyt wczesnej turze, każdy z graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116 dla średnich dróg i 117 dla szybkich. Interakcja między graczami jest zdefiniowana jako jakakolwiek walka między graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
+4.4  Restarty wczesnego spotkania. Jeśli nastąpi interakcja między graczami w zbyt wczesnej turze, każdy z graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116 dla średnich dróg i 117 dla szybkich. Interakcja między graczami jest zdefiniowana jako jakakolwiek walka między graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
 
-## 6. Fair play
+## 5. Fair play
 
-6.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
+5.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
 
-6.2 Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony: 
+5.2 Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony: 
 
 - Porady (osoba trzecia dostarcza graczowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst: Dozwolone, ale jeżeli podpowiedź posiada znaczący wpływ na rozgrywkę lub sprawiających, że Gracz zmieni swój plan na rozgrywkę, np. lista kroków, wskazanie nie zauważonego wcześniej przez gracza obiektu lub przypomnienie o założeniu artefaktu przed walką, Streamerzy korzystający z tego typu porad zostaną ukarani walkowerem lub dyskwalifikacją, każdy tego typu przypadek należy zgłosić do Komitetu; Streamerzy powinni usuwać takie podpowiedzi, najlepiej za pośrednictwem moderacji.
 - Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo: Zakazane
@@ -133,15 +133,15 @@ TBD
 - Własne notatki o grze: Dozwolone
 - Makra i bindy: Dozwolone jest stosowanie makr i bindów ograniczających się do symulacji kombinacji 2 klawiszy, bez dodatkowych opóźnień oraz bez ruchów kursorem
 
-6.3 Zakazane jest wykorzystywanie zapisów gry do zmiany ruchów wykonanych przed nimi.
+5.3 Zakazane jest wykorzystywanie zapisów gry do zmiany ruchów wykonanych przed nimi.
 
-6.4 Gracze mają obowiązek zachowywać się kulturalnie względem siebie w czasie gry, przed nią i po niej na czacie Gry, w prywatnych wiadomościach dotyczących turnieju oraz na Discordzie.
+5.4 Gracze mają obowiązek zachowywać się kulturalnie względem siebie w czasie gry, przed nią i po niej na czacie Gry, w prywatnych wiadomościach dotyczących turnieju oraz na Discordzie.
 
-6.5  W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć [tutaj](https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
+5.5  W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć [tutaj](https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
 
-## 7. Kary
+## 6. Kary
 
-7.1 Komitet ma do dyspozycji kilka możliwości w jakie możę karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, nie wymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
+6.1 Komitet ma do dyspozycji kilka możliwości w jakie możę karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, nie wymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
 
 - Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak
 - Drugie ostrzeżenie - walkower na Partię
@@ -151,13 +151,13 @@ TBD
 - Dyskwalifikacja - otrzymywana za duże przewinienia
 - Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w Turnieju na czas określony, lub nieokreślony.
 
-7.2 Komitet w wyjątkowych sytuacjach może zastosować karę inną niż wymienione w punkcie 7.1
+6.2 Komitet w wyjątkowych sytuacjach może zastosować karę inną niż wymienione w punkcie 7.1
 
-7.3 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie
+6.3 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie
 
-7.4 Gracze mogą odwołać się od decyzji Komitetu najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
+6.4 Gracze mogą odwołać się od decyzji Komitetu najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
 
-## 8. Zakończenie Gry
+## 7. Zakończenie Gry
 
 - Po rozegraniu gry, Gracz, który przegrał Mecz wpisuje “gg” na czacie gry (oraz w przypadku grania w trybie rankingowym potwierdza przyznanie się do porażki), jest to jednoznaczne z przyznaniem się do porażki oraz dowodem w trakcie pisania sprawozdania z meczu. Decyzji o poddaniu gry nie można odwołać.
 
