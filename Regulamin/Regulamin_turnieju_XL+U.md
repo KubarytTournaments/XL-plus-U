@@ -34,11 +34,7 @@ III miejsce: 200 zł <br>
 - Gracz znany jest z wysokiej toksyczności
 - Gracz znany jest z braku szacunku do zasad fair play
 
-1.3 Komitet zastrzega sobie prawo do niedopuszczenia wybranej osoby do pełnienia oficjalnych funkcji w Turnieju, w szczególności jeśli:
-
-- Gracz znany jest z oszukiwania podczas rozgrywek
-- Gracz znany jest z wysokiej toksyczności
-- Gracz znany jest z braku szacunku do zasad fair play
+1.3 Komitet zastrzega sobie prawo do niedopuszczenia wybranej osoby do pełnienia oficjalnych funkcji w Turnieju, w szczególności jeśli osoba znana jest z wysokiej toksyczności.
 
 1.4 Komitet ma niewyłączne i niezbywalne prawo do retransmisji, nagrywania i udostępniania wybranych meczów rozgrywanych w ramach Turnieju. Komitet może dzielić się tym prawem z osobami trzecimi.
 
