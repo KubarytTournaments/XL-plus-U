@@ -239,6 +239,8 @@ III miejsce: 200 zł <br>
 
 ### Załącznik nr 4
 
+#### Domyślny zegar zostanie wybrany spośród podanych (normalny, rapid, blitz) na podstawie głosowania.
+
 #### 6lm10tp
 
 > Rozmiar mapy: XL+U
@@ -265,7 +267,7 @@ III miejsce: 200 zł <br>
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 19:00+08:00+01:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
 > 
@@ -303,7 +305,7 @@ III miejsce: 200 zł <br>
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 19:00+08:00+01:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
 > 
@@ -341,7 +343,7 @@ III miejsce: 200 zł <br>
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 20:00+08:00+01:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
 > 
@@ -381,7 +383,7 @@ III miejsce: 200 zł <br>
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 18:00+07:00+01:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 17:00+07:00+01:15 Normalny, 15:00+5:30+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
 > 
@@ -417,7 +419,7 @@ III miejsce: 200 zł <br>
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 19:00+8:00+1:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
 > 
@@ -453,7 +455,7 @@ III miejsce: 200 zł <br>
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 18:00+07:00+01:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
 > 
@@ -489,7 +491,7 @@ III miejsce: 200 zł <br>
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 19:00+08:00+01:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
 > 
 > Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
 > 
