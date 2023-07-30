@@ -519,7 +519,7 @@ To jest nasza Polityka Prywatności, która zawiera informacje o tym jakie dane 
 Od czasu do czasu możemy zaktualizować Politykę Prywatności. Zmiany będą miały efekt tuż po wprowadzeniu. Jeżeli nie zgadzasz się z niniejszą Polityką Prywatności, nie uczestnicz w Turnieju.
 
 #### Jakie dane zbieramy
-Dane zbierane automatycznie: W przypadku interakcji z jakimikolwiek usługami należącymi do Ligi, możemy automatycznie zbierać i przechowywać dane, między innymi takie jak adres IP.
+Dane zbierane automatycznie: W przypadku interakcji z jakimikolwiek usługami należącymi do Turnieju, możemy automatycznie zbierać i przechowywać dane, między innymi takie jak adres IP.
 Dane które nam podajesz: Zbieramy twoje dane wtedy kiedy nam je podajesz, przykładowo kiedy rejestrujesz się jako Gracz. Przykładami informacji jakie zbieramy w ten sposób jest Twój nickname i unikatowy identyfikator konta Discord, adres e-mail, raporty z meczów, oraz jakiekolwiek inne dane jakimi się z nami dzielisz.
 Retransmisje: Możemy dokonywać retransmisji i nagrywać wybrane mecze w celu udostępniania komentarza oraz archiwizacji. Podczas swojej transmisji, możesz udostępniać dane umożliwiające Twoją identyfikację, na przykład nagranie z kamery. Dajesz nam niezbywalne prawo do posługiwania się tymi danymi - ale w przypadku uzasadnionej przyczyny możemy usunąć część z nich.
 #### Usługi osób trzecich
