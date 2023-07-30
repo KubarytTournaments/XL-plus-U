@@ -22,9 +22,9 @@
 
 1.2 Pula nagród Turnieju:
 
-I miejsce: 500 zł
-II miejsce: 300 zł
-III miejsce: 200 zł
+I miejsce: 500 zł <br>
+II miejsce: 300 zł <br>
+III miejsce: 200 zł <br>
 
 *Pula nagród może ulec zmianie w trakcie turnieju*
 
@@ -203,6 +203,8 @@ III miejsce: 200 zł
 - Poprzez decyzje indywidualne - w sprawach związanych z przydzielonym obszarem Turnieju i sprawach związanych z całym Turniejem, które według Szefa Komitetu nie wymagają głosowania większościowego.
 - Poprzez głosowanie większościowe - w sprawach związanych z całym Turniejem, odwołaniami od deyczji indywidualnych oraz na prośbę członka Komitetu zajmującego się obszarem, z którym związana jest sprawa. Decyzje podejmowane są większością zwykłą.
 
+2.2 Szef Komitetu w załączniku do Orzeczenia rozwiązującego Komitet umieszcza sprawozdanie z pracy Komitetu, które podsumowuje jego działania w trakcie jego istnienia.
+
 ### Załącznik nr 2
 
 1. Definicje
@@ -227,15 +229,15 @@ III miejsce: 200 zł
 2.1 Orzeczenie składa się z Numeru Orzeczenia, Treści Orzeczenia i informacji o osobie wydającej.
 2.2 Numer Orzeczenia składa się ze znaku #, 4 cyfr i litery X (np. #3001X). Pierwsza cyfra oznacza, w której edycji Turnieju dane Orzeczenie obowiązuje, natomiast trzy następne cyfry oznaczają liczbę porządkową Orzeczenia. Im wyższa liczba porządkowa Orzeczenia tym większą posiada moc, w związku z tym jeżeli Orzeczenie #3001X jest sprzeczne z Orzeczeniem #3006X, to Orzeczenie #3006X jest obowiązujące.
 2.3 Treść Orzeczenia podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu):
-- Wycofania - informuje o wycofaniach się Graczy
-- Walkowery na Partię - informuje o poddanych z własnej woli przez Graczy Partiach
-- Walkowery na Mecz - informuje o poddanych z własnej woli przez Graczy Meczach
-- Odwołania - informuje o odwołaniach Graczy od decyzji Komitetu i rozpatrzeniu ich
-- Kary i nagany - informuje o karach zastosowanych wobec Graczy
-- Terminarz - informuje o Terminach faz
-- Przedłużenia terminów - informuje o zmianach w Terminarzu
-- Komitet Sędziowski - informuje o postanowieniach związanych ze składem Komitetu
-- Regulamin - informuje o postanowianiach związanych z Regulaminem
+- Wycofania - informuje o wycofaniach się Graczy.
+- Walkowery na Partię - informuje o poddanych z własnej woli przez Graczy Partiach.
+- Walkowery na Mecz - informuje o poddanych z własnej woli przez Graczy Meczach.
+- Odwołania - informuje o odwołaniach Graczy od decyzji Komitetu i rozpatrzeniu ich.
+- Kary i nagany - informuje o karach zastosowanych wobec Graczy.
+- Terminarz - informuje o Terminach faz.
+- Przedłużenia terminów - informuje o zmianach w Terminarzu.
+- Komitet Sędziowski - informuje o postanowieniach związanych z Komitetem.
+- Regulamin - informuje o postanowianiach związanych z Regulaminem.
 - Wyjatki od Regulaminu - informuje o postanowieniach związanych z punktem 0.4 Regulaminu i planowanych zmianach Regulaminu
 - Postanowienia - informuje o innych postanowieniach
 
