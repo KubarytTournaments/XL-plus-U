@@ -34,7 +34,7 @@
 - the person is known for lack of respect towards other players or the fair play rules
 - the person is known to be highly toxic
 
-1.3 Committee may forbid a person from acting in official function in Tournament, especially when the person is known to be highly toxic.
+1.3 Committee may forbid a person from acting in Official Function in Tournament, especially when the person is known to be highly toxic.
 
 1.4 Committee is given a non-exclusive, non-revocable and transferable right to restream, record and share chosen matches played in the Tournament for the purpose of providing commentary and archivization.
 
@@ -176,66 +176,67 @@
   - [Github turnieju](https://github.com/KubarytTournaments/XL-plus-U)
 <!--  -[Strona turnieju](link do strony na h3gg) -->
 
-## Załączniki
+## Appednices
 
-### Załącznik nr 1
+### Appendix no 1
 
-1. Skład Komitetu Sędziowskiego
+1. Composition of Judges' Committee
 
-1.1 W skład Komitetu Sędziowskiego wchodzą:
-- Szef Komitetu - Jakub "Kubaryt" Starzyk, ustala skład Komitetu i koordynuje jego pracę,
-- Organizator - Podejmuje decyzje i działania związane z marketingiem Turnieju, Regulaminem oraz Stroną
-- Sędzia - Podejmuje decyzje i działania związane z przestrzeganiem przez Graczy Terminarza, Fair Play, reszty Regulaminu oraz pomaga Graczom w przypadku problemów z wypełnieniem jego postanowień
-- Moderator Serwera Discord - Podejmuje decyzje i działania związane z Discordem
-- Członek-obserwator - Nie pełni szczególnej roli w działaniu Komitetu, ale może działać m.in jako doradca
+1.1 Types of Committee members:
+- Committee Chef - Jakub "Kubaryt" Starzyk, determines the composition of the Committee and coordinates its work,
+- Organizer - Makes decisions and actions related to the marketing of the Tournament, the Regulations and the Website,
+- Judges - Makes decisions and actions related to the Players' compliance with the Timetable, Fair Play, the rest of the Regulations and helps the Players in case of problems with fulfilling its provisions,
+- Discord Server Moderator - Makes decisions and actions related to Discord,
+- Observer member - Does not play a special role in the Committee's operation, but may act fe. as an advisor,
 
-1.2 Skład Komitetu podany w pierwszym Orzeczeniu w Turnieju przez Szefa Komitetu
+1.2 Composition of Judges' Committee will be given in the first Ruling of Tournament.
 
-1.3 Skład Komitetu wraz z danymi kontaktowymi do jego członków zostanie również podany w tym załączniku
+1.3 The composition of the Committee, together with the contact details of its members, will also be given in this appendix.
 
-2. Sposób działania Komitetu Sędziowskiego
+2. Method of operation of Committee
 
-2.1 Komitet podejmuje decyzje w dwóch trybach:
-- Poprzez decyzje indywidualne - w sprawach związanych z przydzielonym obszarem Turnieju i sprawach związanych z całym Turniejem, które według Szefa Komitetu nie wymagają głosowania większościowego.
-- Poprzez głosowanie większościowe - w sprawach związanych z całym Turniejem, odwołaniami od deyczji indywidualnych oraz na prośbę członka Komitetu zajmującego się obszarem, z którym związana jest sprawa. Decyzje podejmowane są większością zwykłą.
+2.1 The Committee makes decisions in two modes:
+- Through individual decisions - in matters related to the assigned area of the Tournament and matters related to the entire Tournament, which in Committee Chef opinion, do not require a majority vote.
+- By majority vote - in matters related to the entire Tournament, appeals against individual decisions and at the request of a member of the Committee dealing with the area to which the matter relates. Decisions are taken by simple majority.
 
-2.2 Szef Komitetu w załączniku do Orzeczenia rozwiązującego Komitet umieszcza sprawozdanie z pracy Komitetu, które podsumowuje jego działania w trakcie jego istnienia.
+2.2 In the appendix to the Rulings dissolving the Committee, the Committee Chef shall include a report on the work of the Committee, which summarizes its activities during its existence.
 
-### Załącznik nr 2
+### Appendix no 2
 
-1. Definicje
-- Partia - spotkanie online między dwoma Graczami rozgrywane w ramach Turnieju w Grze
-- Streamer - osoba transmitująca swój Mecz
-- Oficjalna funkcja w Turnieju - funkcja związana z czynnościami kojarzonymi bezpośrednio z Turniejem:
-  - Komentator
+1. Definitions
+- Player - Tournament participtant.
+- Party - encounter beetwen two Players played for Tournament in Game,
+- Streamer - Player streaming his Game played for Tournament
+- Official Function in Tournament - function related to activites directly associated with Tournament:
+  - Shoutcaster
   - Host
-  - Członek Komitetu
-- Mecz - wszystkie Partie rozgrywane między danymi Graczami w danej fazie Turnieju
+  - Committee member
+- Match - all Parties played beetwen certain two Players in certain Phase in Tournament.
 
-### Załącznik nr 3
+### Appendix no 3
 
-1. Sposób wydawania Orzeczeń
+1. Method of making Rulings
 
-1.1 W przypadku decyzji indywidualnej członek Komitetu ją podejmujący wydaje Orzeczenie publikując je na Githubie oraz Discordzie lub przekazuje informacje o tym do innego członka Komitetu, który wydaje Orzeczenie zaznaczając kto podjął daną decyzję.
-1.2 W przypadku głosowania większościowego Szef Komitetu wydaje Orzeczenie w sposób opisany w punkcie 1.1
-1.3 W przypadku decyzji Gracza np. wycofanie z Turnieju członek Komitetu, który otrzymał o niej informacje wydaje Orzeczenie w sposób opisany w punkcie 1.1
+1.1 In the case of an individual decision, the member of the Committee who takes it issues a ruling by publishing it on Github and Discord or provides information about it to another member of the Committee who issues a ruling indicating who made the decision.
+1.2 In the event of a majority vote, the Committee Chef issues a Ruling in the manner described in point 1.1.
+1.3 In the case of a Player's decision, e.g. withdrawal from the Tournament, the Committee member who received information about it issues a Ruling in the manner described in point 1.1.
 
-2. Kształt Orzeczeń
+2. Ruling Shape
 
-2.1 Orzeczenie składa się z Numeru Orzeczenia, Treści Orzeczenia i informacji o osobie wydającej.
-2.2 Numer Orzeczenia składa się ze znaku #, 4 cyfr i litery X (np. #3001X). Pierwsza cyfra oznacza, w której edycji Turnieju dane Orzeczenie obowiązuje, natomiast trzy następne cyfry oznaczają liczbę porządkową Orzeczenia. Im wyższa liczba porządkowa Orzeczenia tym większą posiada moc, w związku z tym jeżeli Orzeczenie #3001X jest sprzeczne z Orzeczeniem #3006X, to Orzeczenie #3006X jest obowiązujące.
-2.3 Treść Orzeczenia podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu):
-- Wycofania - informuje o wycofaniach się Graczy.
-- Walkowery na Partię - informuje o poddanych z własnej woli przez Graczy Partiach.
-- Walkowery na Mecz - informuje o poddanych z własnej woli przez Graczy Meczach.
-- Odwołania - informuje o odwołaniach Graczy od decyzji Komitetu i rozpatrzeniu ich.
-- Kary i nagany - informuje o karach zastosowanych wobec Graczy.
-- Terminarz - informuje o Terminach faz.
-- Przedłużenia terminów - informuje o zmianach w Terminarzu.
-- Komitet Sędziowski - informuje o postanowieniach związanych z Komitetem.
-- Regulamin - informuje o postanowianiach związanych z Regulaminem.
-- Wyjatki od Regulaminu - informuje o postanowieniach związanych z punktem 0.4 Regulaminu i planowanych zmianach Regulaminu
-- Postanowienia - informuje o innych postanowieniach
+2.1 Ruling consist of Number of Ruling, Ruling's Content and information of person issuing it.
+2.2 Number of Ruling consist of # character, 4 ciphers and X character (fe. #3001X). First cipher determines to which edition of Tournament Ruling applies, last three ciphers determines ordinal number. The higher the ordinal number of the Ruling, the more powerful it is, therefore if Ruling#3001X conflicts with Ruling#3006X, then Ruling#3006X is valid.
+2.3 Ruling's Content is divided into points (not all of these points need to be included in every Ruling):
+- Withdrawals - informs about Player's withdrawals.
+- Walkovers for a Party - informs about Parties forfeited voluntarily by Players.
+- Walkovers for a Match - informs about Matches forfeited voluntarily by Players.
+- Appeals - informs about appealings form Committee decisions and concluding them.
+- Punishments and reprimands - informs about punishments used against Players.
+- Timetable - informs about Timetables of Phases.
+- Extensions of deadlines - informs about changes in the Timetable.
+- Judges' Committee - informs about decisions related to Committee.
+- Regulations - informs about decisions related to Regulations.
+- Exceptions to the Regulations - informs about the provisions related to point 0.4 of the Regulations and the planned changes to the Regulations.
+- Provisions - informs about other decisions.
 
 ### Załącznik nr 4
 
