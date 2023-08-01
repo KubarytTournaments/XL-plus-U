@@ -1,71 +1,71 @@
-# Regulamin turnieju XL+U
+# Regulations of XL+yoU tournament
 
-## 0. Wstęp
+## 0. Introduction
 
-0.1 XL+U (dalej zwany Turniejem) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). O zasadach Turnieju stanowi Regulamin turnieju XL+U (dalej zwany Regulaminem) oraz załączone do niego dokumenty.
+0.1 Kubaryt League (hereinafter referred to as the Tournament) is tournament played in game Heroes of Might and Magic III with Horn of the Abyss addon (hereinafter reffered to as the Game). The rules are set out in the Regulations of XL+yoU tournament and appendices to it (hereinafter reffered to as the Regulations).
 
-0.2 Turniej organizowana jest przez Komitet Sędziowski (dalej zwany Komitetem). O sposobie działania Komitetu oraz jego składzie stanowi [Załącznik nr 1](#załącznik-nr-1)
+0.2 Tournament is organized by Judges Committee (hereinafter reffered to as the Committee). [Appendix no 1](#appendix-no-1) determines the method of operation of the Committee and its composition.
 
-0.3 Polskojęzyczna wersja Regulaminu jest obowiązująca. Jeżeli w angielskojęzyczna wersja Regulaminu jest sprzeczna z polskojęzyczną, to należy postępować wedle polskojęzycznej wersji Regulaminu.
+0.3 The main version of the Regulations is Polish version, in the case of contradictions beetwen English and Polish versions, Polish version takes precedence.
 
-0.4 W sytuacjach nieujętych Regulaminem decyzja Komitetu jest wiążąca.
+0.4 In cases non included in regulations the Committee has deciding vote.
 
-0.5 Terminy użyte w Regulaminie, jednak nie zdefiniowane w nim, których definicja różni się od ogólnie przyjętej zdefiniowane są w [Załączniku nr 2](#załącznik-nr-2)
+0.5 Terms used in Regulations, but not defined therein, which definition differs from common are defined in [Appendix no 2](#appendux-no-2)
 
-0.6 Komitet może wydawać Orzeczenia, sposób wydawania Orzeczeń i ich kształt reguluje [Załącznik nr 3](#załącznik-nr-3)
+0.6 Committee can make Rulings, method of making of Rulings and its shape determines [Appendix no 3](#appendix-no-3)
 
-0.7 Politykę prywatności Turnieju określa [Załącznik nr 6](#załącznik-nr-6)
+0.7 Privacy policy of Tournament is determined by [Appendix no 6](#appendix-no-6)
 
 ## 1. Postanowienia Ogólne
 
-1.1 Warunkiem uczestnictwa w Lidze jest rejestracja na stronie www.h3.gg oraz dołączenie do turnieju "XL+U" za jej pośrednictwem, przeczytanie i przestrzeganie Regulaminu.
+1.1 Condition of participating in the Tournament is registration on www.h3.gg website and joining the "XL+yoU" tournament, reading and accepting the Regulations.
 
-1.2 Pula nagród Turnieju:
+1.2 Prize pool in the Tournament:
 
-I miejsce: 500 zł <br>
-II miejsce: 300 zł <br>
-III miejsce: 200 zł <br>
+1st place: 500 pln <br>
+2nd miejsce: 300 pln <br>
+3rd miejsce: 200 pln <br>
 
-*Pula nagród może ulec zmianie w trakcie turnieju*
+*Prize pool can be changed during Tournament.*
 
-1.3 Komitet zastrzega sobie prawo do niedopuszczenia wybranego Gracza do Turnieju, w szczególności jeśli:
+1.3 Committee may forbid a person from joining without giving a reason - especially when:
 
-- Gracz znany jest z oszukiwania podczas rozgrywek
-- Gracz znany jest z wysokiej toksyczności
-- Gracz znany jest z braku szacunku do zasad fair play
+- the person is known for cheating during play
+- the person is known for lack of respect towards other players or the fair play rules
+- the person is known to be highly toxic
 
-1.3 Komitet zastrzega sobie prawo do niedopuszczenia wybranej osoby do pełnienia oficjalnych funkcji w Turnieju, w szczególności jeśli osoba znana jest z wysokiej toksyczności.
+1.3 Committee may forbid a person from acting in official function in Tournament, especially when the person is known to be highly toxic.
 
-1.4 Komitet ma niewyłączne i niezbywalne prawo do retransmisji, nagrywania i udostępniania wybranych meczów rozgrywanych w ramach Turnieju. Komitet może dzielić się tym prawem z osobami trzecimi.
+1.4 Committee is given a non-exclusive, non-revocable and transferable right to restream, record and share chosen matches played in the Tournament for the purpose of providing commentary and archivization.
 
-1.5 Oficjalnym kanałem komunikacyjnym turnieju jest serwer Discord `H3GG` [link](https://discord.gg/r6dS4D9edd) (Dalej nazywany Discordem)
+1.5 Official communication channel is Discord Server `H3GG` [link](https://discord.gg/r6dS4D9edd) (Hereinafter reffered to as the Discord)
 
-## 2. Format Turnieju i terminarz
+## 2. Tournament Format and Timetable
 
-2.1 Turniej składać będzie się z dwóch faz: Zapisów i Fazy Pucharowej
+2.1 Tournament will consist of two phases: Singups and Bracket Phase.
 
-2.2 Zapisy rozpoczną się 1.08.2023 i potrwają do 14.08.2023. Odbędą się one za pośrednictwem strony www.h3.gg/
+2.2  Singups will start 1.08.2023 and will last to 14.08.2023. Singups will take place via www.h3.gg website.
 
-2.3 Przebieg Fazy Pucharowej:
+2.3 Course of Bracket Phase:
 
-- Faza Pucharowa zostanie przeprowadzona w systemie pucharowym z podwójną eliminacją, w związku z tym zostanie podzielona na fazę Górnej Drabinki oraz Dolnej Drabinki.
-- Faza Górnej Drabinki:
-  - Zwycięzca meczu przechodzi do następnej rundy Górnej Drabinki, przegrany przechodzi do Dolnej Drabinki.
-  - Obowiązuje Bo3.
-  - Każda runda Górnej Drabinki będzie trwać 2 tygodnie z zastrzeżeniem Załącznika nr 3.
-  - Od fazy 1/4 finału transmitowanie swoich gier jest obowiązkowe.
-- Faza Dolnej Drabinki:
-  - Zwycięzca meczu przechodzi do następnej rundy Dolnej  Drabinki, przegrany przechodzi do Dolnej Drabinki.
-  - Obowiązuje Bo1.
-  - Każda runda Górnej Drabinki będzie trwać tydzień z zastrzeżeniem Załącznika nr 3.
-  - Od fazy 1/4 finału transmitowanie swoich gier jest obowiązkowe
-- Finał Fazy Pucharowej odbywa się między zwycięzcą Dolnej Drabinki a zwycięzcą Górnej Drabinki:
-  - Obowiązuje Bo5.
-  - Czas na fazę do 3 tygodnie.
-  - Zwycięzca Górnej Drabinki zaczyna z jednym punktem przewagi.
-  - Transmitowanie swoich gier jest obowiązkowe.
+- Bracket Phase will be carried out in cup system with double elimination, therefore will be divided into Upper Bracket Phase and Bottom Bracket Phase.
+- Upper Bracket Phase:
+  - Winner of the match passes to next round of Upper Bracket Phase, loser passes to Bottom Bracket Phase.
+  - Applies Best of Three game system.
+  - Every round of Upper Bracket Phase will last 2 weeks, with reservation for Appendix no 3.
+  - From quater-final of Upper Bracket Phase streaming is obligatory.
+- Bottom Bracket Phase:
+  - Winner of the match passes to next round of Bottom Bracket Phase, loser is eliminated from the Tournament.
+  - Applies Best of One game system.
+  - Every round of Upper Bracket Phase will last 1 week, with reservation for Appendix no 3.
+  - rom quater-final of Bottom Bracket Phase streaming is obligatory.
+- Bracket Phase Final will be played beetwen winner of Bottom Bracket Phase and winner of Upper Bracket Phase:
+  - Applies Best of Five game system.
+  - Time for phase is 3 weeks.
+  - Winner of Uppper Bracket Phase has advantage of one point from beginning.
+  - Straming is obligatory.
 
-2.4 Każdy Gracz ma prawo do poddania dowolnej liczby Meczów i Partii w ciągu całej Fazy Pucharowej.
+2.4 Each player has the right to give up any number of Matches and Parties during the whole Bracket Phase.
 
 ## 3. Rozgrywka
 
