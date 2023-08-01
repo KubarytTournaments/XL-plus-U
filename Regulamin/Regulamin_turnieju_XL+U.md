@@ -93,7 +93,7 @@ III miejsce: 200 zł <br>
 - Gospodarz losuje 2 szablony, które zostaną zbanowane. Przykładowy sposób dokonania takiego banowania przedstawiony został w [Załącznik nr 5](#załącznik-nr-5).
 - Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA. 
   - W przypadku Bo1 gracze banują szablony do pozostawienia jednego szablonu. 
-  - W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach. 
+  - W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował ostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach. 
   - W przypadku Bo5 w Finale Fazy Pucharowej zwycięzca Górnej Drabinki jako pierwszy wybiera szablon z pozostałych po losowaniu. Wybrany przez niego szablon zostaje przez niego wygrany w ramach jednego punktu przewagi. Szablony w następnych grach wybierane są przez graczy na przemian zaczynając od zwycięzcy Dolnej Drabinki. Wszystkie gry muszą odbyć się na różnych szablonach. 
   - Za zgodą obu Graczy można rozegrać grę na innej wersji szablonu niż domyślna, zaleca się ustalenie preferowanej wersji szablonu przed rozpoczęciem wyboru szablonów.
 
