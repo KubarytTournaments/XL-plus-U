@@ -16,7 +16,7 @@
 
 0.7 Privacy policy of Tournament is determined by [Appendix no 6](#appendix-no-6)
 
-## 1. Postanowienia Ogólne
+## 1. General Provisions
 
 1.1 Condition of participating in the Tournament is registration on www.h3.gg website and joining the "XL+yoU" tournament, reading and accepting the Regulations.
 
