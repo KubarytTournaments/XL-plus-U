@@ -63,7 +63,7 @@
   - Applies Best of Five game system.
   - Time for phase is 3 weeks.
   - Winner of Uppper Bracket Phase has advantage of one point from beginning.
-  - Straming is obligatory.
+  - Streaming is obligatory.
 
 2.4 Each player has the right to give up any number of Matches and Parties during the whole Bracket Phase.
 
@@ -95,13 +95,13 @@
   - In the case of Best Of One Players ban templates until there is 1 template remaining. 
   - In the case of Best Of Three Players ban templates until there are 3 templates remaining. Players choose templates alternately beginning with Player who banned last template. All Parties should be played on diffrent templates. 
   - In the case of Best of Five in Final of Bracket Phase winner of Upper Bracket chooses template first. Template chosed by him is automatically winned by him, because of 1 point of advantage. Templates in other Parties are chosen by Players alternately begininng from winner of Bottom Bracket. All Parties should be played on diffrent templates. 
-  - Za zgodą obu Graczy można rozegrać grę na innej wersji szablonu niż domyślna, zaleca się ustalenie preferowanej wersji szablonu przed rozpoczęciem wyboru szablonów.
+  - By mutual agreement Party can be played on other version of template, it is recommended to determine your preferred template version before starting template selection.
 
-3.6 Wybór koloru oraz zamku:
+3.6 Choosing of color and towns:
 
-- Wylosowanie miast następuje przez opcję Random Town vs Random Town, w przypadku wylosowania dwóch identycznych miast, losowanie należy powtórzyć.
-- Gracze mogą zażądzać ponownego losowania miast (tzw. *reroll*) i zbanowania 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Gracza. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie.
-- Licytację o miasto oraz o kolor rozpoczyna gracz, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
+- Towns are randomized via the Random Town vs Random Town option, if two identical towns are drawn, the draw must be repeated.
+- Players can *reroll* and ban 0-2 drawn towns for a fee of 500 gold. The first to *reroll* declares the winner of the coinflip. There is a maximum of one such ban per Player. If the same pair of towns is drawn as before the *reroll*, the draw must be repeated.
+- Bidding of town and color o miasto oraz o kolor rozpoczyna gracz, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
 
 ## 4. Restarty
 
