@@ -67,34 +67,34 @@
 
 2.4 Each player has the right to give up any number of Matches and Parties during the whole Bracket Phase.
 
-## 3. Rozgrywka
+## 3. Gameplay
 
-3.1 Szablonami map losowych obowiązującymi w rozgrywkach Turnieju są:
+3.1 Templates for the Tournament's parties are:
 
-- 6lm10tp 1.0.1 [Link do pobrania](https://drive.google.com/drive/folders/16d8AzGbxMpGz7Efy9c9bS7lgr80dFj8i)
-- Nostalgia TP [Link do pobrania](https://drive.google.com/drive/folders/1es6bZJ73pwcjw02NwuuWH7n4rwIyygS9)
+- 6lm10tp 1.0.1 [Link to download](https://drive.google.com/drive/folders/16d8AzGbxMpGz7Efy9c9bS7lgr80dFj8i)
+- Nostalgia TP [Link to download](https://drive.google.com/drive/folders/1es6bZJ73pwcjw02NwuuWH7n4rwIyygS9)
 - 8xm12a
-- Rally 2.2 [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
-- Spider 2.0 [Link do pobrania](https://drive.google.com/file/d/1pl1YEO-VfyzqcIBuX0Mn-jdAYS8POi3s/view?pli=1)
-- Sapphire 1.6a [Link do pobrania](https://drive.google.com/file/d/1gx1RYghCmuBFFBgO9hms-Vqb0AjA9xMM/view)
-- Kubaryt 1.2a [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
+- Rally 2.2 [Link to download](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
+- Spider 2.0 [Link to download](https://drive.google.com/file/d/1pl1YEO-VfyzqcIBuX0Mn-jdAYS8POi3s/view?pli=1)
+- Sapphire 1.6a [Link to download](https://drive.google.com/file/d/1gx1RYghCmuBFFBgO9hms-Vqb0AjA9xMM/view)
+- Kubaryt 1.2a [Link to download](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
 
-3.2 Ustawienia szablonów reguluje [Załącznik nr 4](#załącznik-nr-4)
+3.2 Template settings are determined by [Appendix no 4](#appendix-no-4)
 
-3.3 Partie powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Grze. W przypadku gdy HotA Lobby nie jest dostępne Partię można rozegrać za pośrednictwem Hamachi lub Game Rangera.
+3.3 Parties should be played via HotA Lobby avaible in Game. In the case HotA Lobby is not available Parties can be played via Hamachi or Game Ranger.
 
-3.4 Przygotowanie rozgrywki:
+3.4 Preparation of the game:
 
-- Jeden z Graczy zakłada pokój w HotA lobby (będzie on gospodarzem), drugi Gracz dołącza do założonego przez gospodarza pokoju w lobby (będzie on gościem)
-- Gość wybiera cyfrę 1 lub 0, gospodarz za pośrednictwem opcji Coin Flip losuje cyfrę 1 lub 0.
+- One of the Players create a room in the HotA lobby (he will be host), second Player joins created by host room in lobby (he will be guest).
+- Guest choose cipher 1 or 0, host via Coin Flip option randomizes cipher 1 or 0.
 
-3.5 Wybór szablonów:
+3.5 Template choosing:
 
-- Gospodarz losuje 2 szablony, które zostaną zbanowane. Przykładowy sposób dokonania takiego banowania przedstawiony został w [Załącznik nr 5](#załącznik-nr-5).
-- Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA. 
-  - W przypadku Bo1 gracze banują szablony do pozostawienia jednego szablonu. 
-  - W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach. 
-  - W przypadku Bo5 w Finale Fazy Pucharowej zwycięzca Górnej Drabinki jako pierwszy wybiera szablon z pozostałych po losowaniu. Wybrany przez niego szablon zostaje przez niego wygrany w ramach jednego punktu przewagi. Szablony w następnych grach wybierane są przez graczy na przemian zaczynając od zwycięzcy Dolnej Drabinki. Wszystkie gry muszą odbyć się na różnych szablonach. 
+- Host randomizes two templates which will be banned. Example of method of this banning is presented in [Appendix no 5](#appendix-no-5).
+- Winner of coinflip starts banning from remaning templates in ABBA system. 
+  - In the case of Best Of One Players ban templates until there is 1 template remaining. 
+  - In the case of Best Of Three Players ban templates until there are 3 templates remaining. Players choose templates alternately beginning with Player who banned last template. All Parties should be played on diffrent templates. 
+  - In the case of Best of Five in Final of Bracket Phase winner of Upper Bracket chooses template first. Template chosed by him is automatically winned by him, because of 1 point of advantage. Templates in other Parties are chosen by Players alternately begininng from winner of Bottom Bracket. All Parties should be played on diffrent templates. 
   - Za zgodą obu Graczy można rozegrać grę na innej wersji szablonu niż domyślna, zaleca się ustalenie preferowanej wersji szablonu przed rozpoczęciem wyboru szablonów.
 
 3.6 Wybór koloru oraz zamku:
