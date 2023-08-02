@@ -39,4 +39,4 @@
 4.1 I set the date of voting on changing the statutory timers in force on Templates for August 15, 2023. Voting will be secret, equal and will take place among the Players. The result of the vote will be considered binding if at least 50% of the Players take part in it.
 
 ### <p align="right">CC Jakub "Kubaryt" Starzyk</p>
-<div align="right"><img src="https://cdn.discordapp.com/attachments/1022538414328913930/1114662064808542288/parafka.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
+<div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
