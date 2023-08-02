@@ -101,80 +101,80 @@
 
 - Towns are randomized via the Random Town vs Random Town option, if two identical towns are drawn, the draw must be repeated.
 - Players can *reroll* and ban 0-2 drawn towns for a fee of 500 gold. The first to *reroll* declares the winner of the coinflip. There is a maximum of one such ban per Player. If the same pair of towns is drawn as before the *reroll*, the draw must be repeated.
-- Bidding of town and color o miasto oraz o kolor rozpoczyna gracz, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
+- Bidding of town and color begins with Player, who won coinflip. First bidding is about town, second about color.
 
 ## 4. Restarty
 
-4.1 Pierwszą decyzję o restarcie podejmuje gracz czerwony, a następnie gracz niebieski. (Jeśli nastąpi sytuacja, kiedy gracz niebieski odda turę z chęcią restartu, a następnie gracz czerwony odda turę i nastąpi kolejny dzień, gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie gracz niebieski jest zobowiązany do grania mapy).
+4.1 Red is the first that has to decide if they take a restart, blue is second. (If blue passes turn intending to take a restart, in order to not give it away, and then red does not take restart and ends turn, blue has to write 111 in the first 5 seconds after accepting his turn. After that time, blue has to play the map).
 
-4.2 Graczom przysługją tzw. restarty techniczne, które dostępne są jeżeli:
+4.2 Players can take technical restarts if:
 
-- Mapa jest zbugowana, np. brakuje jakiegoś portalu*
-- Na drodze znajduje się strażnik, który blokuje całe przejście, a pokonanie go będzie skutkowało utratą co najmniej 70% wojska.
-- Na drodze znajduje się strażnik, którego pokonanie będzie skutkowało utratą co najmniej 70% wojska, nie blokuje on całego przejścia, ale obejście go kosztuje co najmniej 1500 punktów ruchu.
+- The map is bugged, fe. a portal is missing*
+- There is a guard on the road that blocks the entire passage and defeating him will result in the loss of at least 70% of your army.
+- There is a guard on the road, defeating which will result in the loss of at least 70% of the army, he does not block the entire passage, but getting around him costs at least 1500 movement points.
 
-**Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
+**If the guard of the object is set incorrectly (it is possible to bypass it and use the object), a technical restart should not be performed, and the guard should be fought.*
 
-4.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
+4.3 Technical restarsts can be used from 111 to 114 inclusive. If players can't reach an agreement about technical restart, decision must be consultated with the Judge
 
-4.4  Restarty wczesnego spotkania. Jeśli nastąpi interakcja między graczami w zbyt wczesnej turze, każdy z graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116 dla średnich dróg i 117 dla szybkich. Interakcja między graczami jest zdefiniowana jako jakakolwiek walka między graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
+Early meeting restarts. If players interact with each other in early turns, each of them has the right to ask for a technical restart. The last day on which that is allowed is 116 for medium roads and 117 for fast roads. Interaction between players is defined as any battle between players, or taking over any object belonging to another player (empty mines, towns, etc.). Bear in mind, if simultaneous turns get interrupted, that does not mean an interaction happened. If by the time Blue finishes their turn, there was no interaction, there are no grounds for technical reset.
 
-## 5. Fair play
+## 5. Fair Play rules
 
-5.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
+5.1 Do not use crashes for your advantage. If the game is re-loaded due to a crash, the players should do their best to recreate their moves on the adventure map and in combat in the turn in which error occurred. If a judge decides that moves were not repeated faithfully enough, they can ask players to reload again. If a player purposely changed his moves to gain an advantage, the organiser can punish them with a technical loss. If after loading the game a player has more time than before, they should spend that excess with their town or hero screen open - not analyzing the game or playing. In case of low timer these actions could result in an undeserved advantage.
 
-5.2 Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony: 
+5.2 External help. There are many ways of getting additional information useful in an ongoing game. Below is a list of them, with a decision whether or not it’s acceptable:
 
-- Porady (osoba trzecia dostarcza graczowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst: Dozwolone, ale jeżeli podpowiedź posiada znaczący wpływ na rozgrywkę lub sprawiających, że Gracz zmieni swój plan na rozgrywkę, np. lista kroków, wskazanie nie zauważonego wcześniej przez gracza obiektu lub przypomnienie o założeniu artefaktu przed walką, Streamerzy korzystający z tego typu porad zostaną ukarani walkowerem lub dyskwalifikacją, każdy tego typu przypadek należy zgłosić do Komitetu; Streamerzy powinni usuwać takie podpowiedzi, najlepiej za pośrednictwem moderacji.
-- Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo: Zakazane
-- Spoilery (osoba trzecia dostarcza graczowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki): Zakazane - jeśli gracz przeczyta spoiler powinien grać tak jakby go nie widział.
-- Ghosting (obecność na streamie przeciwnika lub komentarzu tego meczu): Zakazane
-- Programy czytające pamięć gry - na przykład żeby zobaczyć mapę lub przewidzieć rozwój bohatera: Zakazane
-- Kalkulatory value: Dozwolone
-- Kalkulatory damage: Dozwolone
-- Strony wiki: Dozwolone
-- Oglądanie swojego streama lub nagrania z danej Partii w trakcie jej trwania: Zabronione
-- Screenshoty: Zabronione
-- Poradniki wideo: Dozwolone
-- Własne notatki o grze: Dozwolone
-- Makra i bindy: Dozwolone jest stosowanie makr i bindów ograniczających się do symulacji kombinacji 2 klawiszy, bez dodatkowych opóźnień oraz bez ruchów kursorem
+- Hints (a third party provides the Player with information that can be deduced from only looking at their gameplay page) by text: Allowed, but if the hint has a significant impact on the gameplay or causes the Player to change their gameplay plan, fe. a list of steps, indication of an unnoticed earlier by the player of the object or a reminder to equip the artifact before the fight, Streamers using this type of advice will be punished with a walkover or disqualification, each such case should be reported to the Committee; Streamers should remove such suggestions, preferably through moderation.
+- Advice via phone, teamspeak, skype, etc. providing voice and / or video conversations: Forbidden
+- Spoilers (a third party provides a player with information that could not be logically deduced by watching only that player’s side of the game): > > > - Forbidden - if a player reads a spoiler they should play as if they haven’t seen it.
+- Ghosting (watching your opponent’s stream): Forbidden
+- Programs reading game’s memory - for example to see the map or foresee the skilltree of a hero: Forbidden
+- Value calculators: Allowed
+- Damage calculators: Allowed
+- Wiki pages: Allowed
+- Watching your own stream or recording of it from certain Party during this Party: Forbidden
+- Screenshots: Forbidden
+- Video guides: Allowed
+- Personal notes about the game: Allowed
+- Macros and binds: Using macros and binds that limits to simulating a combination of 2 keys, no additional delays and no cursor movements is allowed.
 
-5.3 Zakazane jest wykorzystywanie zapisów gry do zmiany ruchów wykonanych przed nimi.
+5.3 Using game saving for changing of movements made before them is forbidden.
 
-5.4 Gracze mają obowiązek zachowywać się kulturalnie względem siebie w czasie gry, przed nią i po niej na czacie Gry, w prywatnych wiadomościach dotyczących turnieju oraz na Discordzie.
+5.4 Players are obliged to behave culturally to each others, during Party, before it and after it on Game chat, in private messages related to Tournament and on Discord.
 
-5.5  W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć [tutaj](https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
+5.5  Standard hota online gameplay rules. Link to them is [here](https://h3hota.com/en/rules). If a rule in the Regulations conflicts with the one in standard hota rules, the Regulations takes priority.
 
 ## 6. Kary
 
-6.1 Komitet ma do dyspozycji kilka możliwości w jakie możę karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, nie wymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
+6.1 The Committee has several ways to punish players for non-compliance with the Regulations and in exceptional situations, not mentioned in the Regulations. Penalty levels are defined as follows:
 
-- Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak
-- Drugie ostrzeżenie - walkower na Partię
-- Trzecie ostrzeżenie - dyskwalifikacja
-- Walkower na Partię - otrzymywany za małe przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem
-- Walkower na Mecz - otrzymywany za średnie przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem
-- Dyskwalifikacja - otrzymywana za duże przewinienia
-- Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w Turnieju na czas określony, lub nieokreślony.
+- Warning - received for trivial infractions. First warning has no consequences, but every next warning causes additional penalties:
+  - Second warning - walkover for Party
+  - Third warning - disqualification
+- Walkover for Party - received for small infractions,
+- Walkover for Match - received for medium infractions, included failure to meet deadlines, can be combined with a warning,
+- Dyskwalifikacja - received for big infractions
+- Ban - received for serious infractions, works like disquailfication, but doesn't allow you to play in the Tournament for a definite or indefinite period.
 
-6.2 Komitet w wyjątkowych sytuacjach może zastosować karę inną niż wymienione w punkcie 7.1
+6.2 Committee in unusual situtations can use other than mentioned in point 7.1 type of penalty.
 
-6.3 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie
+6.3 Informations about receiving a penatly with the reason of it will be published on Discord.
 
-6.4 Gracze mogą odwołać się od decyzji Komitetu najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
+6.4 Players may appeal against the decision of the Committee at the latest on the day of the end of the phase following the phase in which they received the penalty.
 
 ## 7. Zakończenie Gry
 
-- Po rozegraniu gry, Gracz, który przegrał Mecz wpisuje “gg” na czacie gry (oraz w przypadku grania w trybie rankingowym potwierdza przyznanie się do porażki), jest to jednoznaczne z przyznaniem się do porażki oraz dowodem w trakcie pisania sprawozdania z meczu. Decyzji o poddaniu gry nie można odwołać.
+- After the Party is played, the defeated player types “gg” both in case of the game being ranked, and in case it was not. “gg” in that case means admitting defeat, and can be a proof when writing a report. Decission about admitting defeat can't be canceled.
 
-- Raport ze spotkania należy składać na stronie www.h3.gg. Musi on zostać potwierdzony przez przeciwnika albo sędziego.
+- Report after the finished game should be written on www.h3.gg. The report needs to be confirmed by your opponent, or a judge.
 
-- Po zakończeniu meczu gracze są zobowiązani do podania haseł, które chronią zapisy gry.
+- After the game the players are obligated to exchange save passwords.
 
-- Przydatne linki:
-  - [Discord turnieju](https://discord.gg/r6dS4D9edd)
-  - [Github turnieju](https://github.com/KubarytTournaments/XL-plus-U)
-<!--  -[Strona turnieju](link do strony na h3gg) -->
+- Useful links:
+  - [Tournament Discord](https://discord.gg/r6dS4D9edd)
+  - [Tournament Github](https://github.com/KubarytTournaments/XL-plus-U)
+  - [Tournament Website](https://www.h3.gg/competitions/v2/71)
 
 ## Appednices
 
@@ -238,298 +238,297 @@
 - Exceptions to the Regulations - informs about the provisions related to point 0.4 of the Regulations and the planned changes to the Regulations.
 - Provisions - informs about other decisions.
 
-### Załącznik nr 4
+### Appendix no 4
 
-#### Domyślny zegar zostanie wybrany spośród podanych (normalny, rapid, blitz) na podstawie głosowania.
+#### The default clock will be chosen from the given ones (normal, rapid, blitz) based on voting.
 
 #### 6lm10tp
 
-> Rozmiar mapy: XL+U
+> Map size: XL
 > 
-> Podziemia: Tak
+> Underground: Yes
 > 
-> Gracze ludzcy lub komputerowi: 2
+> Human or computer players: 2
 > 
-> Gracze komputerowi: 6
+> Computer players: 6
 > 
-> Drużyny: 0
+> Teams: None
 > 
-> Typ drogi: Tylko średnie drogi (opcja środkowa)
+> Road type: Only medium (middle option)
 > 
-> Woda: Brak
+> Water content: None
 > 
-> Siła potworów: Silne
+> Monster strength: Strong
 > 
-> Poziom trudności: 160%
+> Difficulty: 160%
 > 
-> Zasady turniejowe (Tournament Rules): Tak
+> Tournament rules: Yes
 > 
-> Chronione zapisy: Tak
+> Protect saves: Yes
 > 
-> Wystartuj czasomierz po wciśnięciu OK: Tak
+> Timer: Chess, 18:00+07:00+01:15 Normal, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (Can be changed if both players agree explicitly).
 > 
-> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
 > 
-> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> Neutral PvP combat: No
 > 
-> Neutralna walka PvP: Nie
+> Restarts: 2x111 1x112
 > 
-> Restarty: 2x111 lub 1x112
+> Additional rules:
 > 
-> Dodatkowe zasady:
-> 
-> Wybór zamków dla Graczy Komputerowych jest losowy.
+> The choice of towns for Computer Players is random.
 
 #### Nostalgia TP
 
-> Rozmiar mapy: XL+U
+> Map size: XL
 > 
-> Podziemia: Tak
+> Underground: Yes
 > 
-> Gracze ludzcy lub komputerowi: 2
+> Human or computer players: 2
 > 
-> Gracze komputerowi: 6
+> Computer players: 6
 > 
-> Drużyny: 0
+> Teams: None
 > 
-> Typ drogi: Tylko szybkie drogi (opcja po prawej stronie)
+> Road type: Only medium (middle option)
 > 
-> Woda: Brak
+> Water content: None
 > 
-> Siła potworów: Silne
+> Monster strength: Strong
 > 
-> Poziom trudności: 160%
+> Difficulty: 160%
 > 
-> Zasady turniejowe (Tournament Rules): Tak
+> Tournament rules: Yes
 > 
-> Chronione zapisy: Tak
+> Protect saves: Yes
 > 
-> Wystartuj czasomierz po wciśnięciu OK: Tak
+> Timer: Chess, 18:00+07:00+01:15 Normal, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (Can be changed if both players agree explicitly).
 > 
-> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
 > 
-> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> Neutral PvP combat: No
 > 
-> Neutralna walka PvP: Nie
+> Restarts: 2x111 1x112
 > 
-> Restarty: 2x111 lub 1x112
+> Additional rules:
 > 
-> Dodatkowe zasady:
-> 
-> Pierwsi 3 gracze komputerowi należą do gracza czerwonego, pozostałe 3 do gracza niebieskiego. Jako pierwszy zamek dla jednego ze swoich graczy komputerowych wybiera gracz niebieski, gracze wybierają zamki na przemian. Każdy zamek można wystąpić tylko raz.
+> The first 3 computer players belong to the red player, the remaining 3 belong to the blue player. The blue player chooses the first town for one of his computer players, the players take turns choosing towns. Each town can only be used once.
 
 #### 8xm12a
 
-> Rozmiar mapy: XL+U
+> Map size: XL
 > 
-> Podziemia: Tak
+> Underground: Yes
 > 
-> Gracze ludzcy lub komputerowi: 2
+> Human or computer players: 2
 > 
-> Gracze komputerowi: 6
+> Computer players: 6
 > 
-> Drużyny: 0
+> Teams: None
 > 
-> Typ drogi: Tylko średnie drogi (opcja środkowa)
+> Road type: Only medium (middle option)
 > 
-> Woda: Brak
+> Water content: None
 > 
-> Siła potworów: Silne
+> Monster strength: Strong
 > 
-> Poziom trudności: 160%
+> Difficulty: 160%
 > 
-> Zasady turniejowe (Tournament Rules): Tak
+> Tournament rules: Yes
 > 
-> Chronione zapisy: Tak
+> Protect saves: Yes
 > 
-> Wystartuj czasomierz po wciśnięciu OK: Tak
+> Timer: Chess, 18:00+07:00+01:15 Normal, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (Can be changed if both players agree explicitly).
 > 
-> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
 > 
-> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> Neutral PvP combat: No
 > 
-> Neutralna walka PvP: Nie
+> Restarts: 2x111 1x112
 > 
-> Restarty: 2x111 lub 1x112
+> Additional rules:
 > 
-> Dodatkowe zasady:
-> 
-> Wybór zamków dla Graczy Komputerowych jest losowy.
+> The choice of towns for Computer Players is random.
 
 #### Rally 2.2
 
-> Rozmiar mapy: XL+U
+> Map size: XL
 > 
-> Podziemia: Tak
+> Underground: Yes
 > 
-> Gracze ludzcy lub komputerowi: 2
+> Human or computer players: 2
 > 
-> Gracze komputerowi: 6
+> Computer players: 6
 > 
-> Drużyny: Brak drużyn
+> Teams: None
 > 
-> Typ drogi: Tylko szybkie drogi (opcja po prawej stronie)
+> Road type: Only medium (middle option)
 > 
-> Woda: Brak
+> Water content: None
 > 
-> Siła potworów: Silne
+> Monster strength: Strong
 > 
-> Restarty: 2x111 lub 1x112
+> Difficulty: 160%
 > 
-> Poziom trudności: 160%
+> Tournament rules: Yes
 > 
-> Zasady turniejowe (tournaments rules): Tak
+> Protect saves: Yes
 > 
-> Chronione zapisy: Tak
+> Timer: Chess, 17:00+07:00+01:15 Normal, 15:00+5:30+1:00 Rapid, 10:00+5:00+1:00 Blitz (Can be changed if both players agree explicitly).
 > 
-> Wystartuj czasomierz po wciśnięciu OK: Tak
+> Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
 > 
-> Zegar: Szachowy, 17:00+07:00+01:15 Normalny, 15:00+5:30+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Neutral PvP combat: No
 > 
-> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
+> Restarts: 2x111 1x112
 > 
-> Neutralna walka PvP: Nie
->
-> Wybór zamków dla Graczy Komputerowych jest losowy.
+> Additional rules:
+> 
+> The choice of towns for Computer Players is random.
 
 #### Spider 2.0
 
-> Rozmiar mapy: XL+U
+> Map size: XL
 > 
-> Podziemia: Tak
+> Underground: Yes
 > 
-> Gracze ludzcy lub komputerowi: 2
+> Human or computer players: 2
 > 
-> Gracze komputerowi: 6
+> Computer players: 6
 > 
-> Drużyny: Brak drużyn
+> Teams: None
 > 
-> Typ drogi: Tylko średnie drogi (opcja po środku)
+> Road type: Only medium (middle option)
 > 
-> Woda: Brak
+> Water content: None
 > 
-> Siła potworów: Silne
+> Monster strength: Strong
 > 
-> Restarty: 2x111 lub 1x112
+> Difficulty: 160%
 > 
-> Poziom trudności: 160%
+> Tournament rules: Yes
 > 
-> Zasady turniejowe (tournaments rules): Tak
+> Protect saves: Yes
 > 
-> Chronione zapisy: Tak
+> Timer: Chess, 18:00+07:00+01:15 Normal, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (Can be changed if both players agree explicitly).
 > 
-> Wystartuj czasomierz po wciśnięciu OK: Tak
+> Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
 > 
-> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Neutral PvP combat: No
 > 
-> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
+> Restarts: 2x111 1x112
 > 
-> Neutralna walka PvP: Nie
->
-> Wybór zamków dla Graczy Komputerowych jest losowy.
+> Additional rules:
+> 
+> The choice of towns for Computer Players is random.
 
 #### Sapphire 1.6a
 
-> Rozmiar mapy: XL+U
+> Map size: XL
 > 
-> Podziemia: Tak
+> Underground: Yes
 > 
-> Gracze ludzcy lub komputerowi: 2
+> Human or computer players: 2
 > 
-> Gracze komputerowi: 6
+> Computer players: 6
 > 
-> Drużyny: Brak drużyn
+> Teams: None
 > 
-> Typ drogi: Tylko średnie drogi (opcja po środku)
+> Road type: Only medium (middle option)
 > 
-> Woda: Brak
+> Water content: None
 > 
-> Siła potworów: Silne
+> Monster strength: Strong
 > 
-> Restarty: 2x111 lub 1x112
+> Difficulty: 160%
 > 
-> Poziom trudności: 160%
+> Tournament rules: Yes
 > 
-> Zasady turniejowe (tournaments rules): Tak
+> Protect saves: Yes
 > 
-> Chronione zapisy: Tak
+> Timer: Chess, 18:00+07:00+01:15 Normal, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (Can be changed if both players agree explicitly).
 > 
-> Wystartuj czasomierz po wciśnięciu OK: Tak
+> Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
 > 
-> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Neutral PvP combat: No
 > 
-> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
+> Restarts: 2x111 1x112
 > 
-> Neutralna walka PvP: Nie
->
-> Sposób wyboru zamków dla Graczy komputerowych opisany w tym [dokumencie](https://docs.google.com/document/d/1wQViejFomFIcaJfLZve-twzun8CuLEgLhv_qnkW167o/edit)
+> Additional rules:
+> 
+> The method of selecting towns for Computer Players described in this [document](https://docs.google.com/document/d/1wQViejFomFIcaJfLZve-twzun8CuLEgLhv_qnkW167o/edit)
 
 #### Kubaryt 1.2a
 
-> Rozmiar mapy: XL+U
+> Map size: XL
 > 
-> Podziemia: Tak
+> Underground: Yes
 > 
-> Gracze ludzcy lub komputerowi: 2
+> Human or computer players: 2
 > 
-> Gracze komputerowi: 6
+> Computer players: 6
 > 
-> Drużyny: Brak drużyn
+> Teams: None
 > 
-> Typ drogi: Tylko średnie drogi (opcja po środku)
+> Road type: Only medium (middle option)
 > 
-> Woda: Brak
+> Water content: None
 > 
-> Siła potworów: Silne
+> Monster strength: Strong
 > 
-> Restarty: 2x111 lub 1x112
+> Difficulty: 160%
 > 
-> Poziom trudności: 160%
+> Tournament rules: Yes
 > 
-> Zasady turniejowe (tournaments rules): Tak
+> Protect saves: Yes
 > 
-> Chronione zapisy: Tak
+> Timer: Chess, 18:00+07:00+01:15 Normal, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (Can be changed if both players agree explicitly).
 > 
-> Wystartuj czasomierz po wciśnięciu OK: Tak
+> Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
 > 
-> Zegar: Szachowy, 18:00+07:00+01:15 Normalny, 16:00+6:00+1:00 Rapid, 10:00+5:00+1:00 Blitz (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> Neutral PvP combat: No
 > 
-> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur	jednoczesnych może ulec zmianie).
+> Restarts: 2x111 1x112
 > 
-> Neutralna walka PvP: Nie
->
-> Wybór zamku dla graczy komputerowych: czerwony gracz wybiera zamek dla gracza brązowego i różowego, a niebieski dla zielonego i jasnoniebieskiego. Pozostali gracze komputerowi mają losowe zamki. Jako pierwszy zamek dla jednego ze swoich komputerów wybiera gracz niebieski, gracze wybierają zamki na przemian. Każdy zamek można wystąpić tylko raz.
+> Additional rules:
+> 
+> Choosing a town for computer players: the red player chooses the town for the brown and pink players, and the blue player for the green and teal players, one town cannot be selected twice. The blue player chooses the first town for green, then the players alternately choose the towns. The rest of the computer players have random towns.
 
-### Załącznik nr 5
+### Appendix no 5
 
-#### Krok 1. Gospodarz przypisuje zamki do szablonów
+#### Step 1. Host assigns towns to templates
 
 ![](https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/templrandbanning1.png)
 
-#### Krok 2. Gospodarz wyklucza z losowania zamki bez przypisanych szablonów
+#### Krok 2. Host exludes towns without assignes templates from drawing
 
 ![](https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/templrandbanning2.png)
 
-#### Krok 3. Gospodarz dokonuje losowania 2 zamków, szablony im przypisane zostają zbanowane
+#### Krok 3. Host draws 2 towns, templates assigned to them are banned
 
 ![](https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/templrandbanning3.png)
 
-### Załącznik nr 6
+### Appendix no 6
 
-To jest nasza Polityka Prywatności, która zawiera informacje o tym jakie dane zbieramy i przechowujemy, a także w jaki sposób je wykorzystujemy. Za każdym razem kiedy zwracamy się w drugiej osobie, mamy na myśli wszystkich Graczy. Za każdym razem kiedy zwracamy się w pierwszej osobie, mamy na myśli Komitet.
-Od czasu do czasu możemy zaktualizować Politykę Prywatności. Zmiany będą miały efekt tuż po wprowadzeniu. Jeżeli nie zgadzasz się z niniejszą Polityką Prywatności, nie uczestnicz w Turnieju.
+This is our Privacy Policy, which contains the information about what data we collect, record, and how we use it. The terms “you” and “your” refer to all current or past participants of the XL+yoU Tournament. The terms “we”, “us”, “our” refers to the Judges' Committee.
+We may update this Privacy Policy from time to time. Changes to the Privacy Policy will be effective immediately. If you do not agree to this Privacy Policy, please do not participate in the Tournament.
+The privacy policy may be translated to other languages - but the binding text is in the Polish language.
 
-#### Jakie dane zbieramy
-Dane zbierane automatycznie: W przypadku interakcji z jakimikolwiek usługami należącymi do Turnieju, możemy automatycznie zbierać i przechowywać dane, między innymi takie jak adres IP.
-Dane które nam podajesz: Zbieramy twoje dane wtedy kiedy nam je podajesz, przykładowo kiedy rejestrujesz się jako Gracz. Przykładami informacji jakie zbieramy w ten sposób jest Twój nickname i unikatowy identyfikator konta Discord, adres e-mail, raporty z meczów, oraz jakiekolwiek inne dane jakimi się z nami dzielisz.
-Retransmisje: Możemy dokonywać retransmisji i nagrywać wybrane mecze w celu udostępniania komentarza oraz archiwizacji. Podczas swojej transmisji, możesz udostępniać dane umożliwiające Twoją identyfikację, na przykład nagranie z kamery. Dajesz nam niezbywalne prawo do posługiwania się tymi danymi - ale w przypadku uzasadnionej przyczyny możemy usunąć część z nich.
-#### Usługi osób trzecich
-Możemy używać usług osób trzecich, wliczając w to systemy zarządzania turniejami i komunikatory. Nasza Polityka Prywatności nie aplikuje się do tychże usług.
-#### W jaki sposób używamy danych
-Używamy zebranych danych aby umożliwić organizację, promocję i archiwizację Turnieju.
-#### Dzieci
-Nie zbieramy danych od osób poniżej wieku 13 lat lub poniżej wieku zgody cyfrowej. Jeżeli należysz do tej grupy osób, nie możesz uczestniczyć w Turnieju. Jeżeli uzyskamy wiedzę o tym że zbieraliśmy dane osób poniżej tego wieku, w miarę naszych możliwości usuniemy wszelkie dane od takiej osoby.
-#### Bezpieczeństwo
-Dokonujemy starań żeby zapewnić bezpieczeństwo przechowywania danych. Trzeba mieć jednak na uwadze że żadna forma komunikacji - fizyczna czy elektroniczna - nie jest pozbawiona błędów ani nie jest stuprocentowo bezpieczna. Z tego powodu powinieneś/powinnaś zachować ostrożność w decydowaniu o tym jakie dane nam udostępniasz.
-#### Kontakt
-Jeżeli chcesz poprosić o swoje dane, czy też je zmodyfikować lub usunąć, możesz się z nami skontaktować za pośrednictwem komunikatora Discord (kubaryt) lub za pomocą poczty elektronicznej (kubarytcup@gmail.com). W przypadku kontaktowania się drogą mailową, należy rozpocząć tytuł wiadomości słowami “DATA REQUEST” - w innym przypadku wiadomość zostanie zignorowana. Po złożeniu prośby, możemy dokonać odpowiednich kroków w celu dodatkowej weryfikacji.
+#### The data we collect
+Data collected automatically: When you interact with any of the services that belong to the Tournament, we may automatically receive data and store certain information, such as IP adresses.
+Information you provide: We collect information from you when you voluntarily provide such information, such as when you register as a participant of the Tournament. Information we collect may include but not be limited to your Discord username and unique identificator, e-mail address, match reports, and any other content you share with us.
+Restreams: We may restream and record certain matches for the purposes of providing commentary and archivization. During your stream, you may share personally identifiable data, such as the feed from your video cam. You provide us with a non-revocable right to use this data - but we may remove certain data if there is a legitimate interest to do so.
+
+#### Third party services
+We may use third party services, including but not limited to tournament management software and chat clients. The policies and procedures described here do not apply to these third parties.
+The way we use information
+We use the provided information to allow for organization, promotion and archivization of the League.
+
+#### Children
+We do not knowingly collect data from people under 13 years old or under the age of digital consent. If you belong to this category, you may not participate in this Tournament. If we discover that we unknowingly collected data of anyone under this age, we will remove this data to the best of our capacity.
+
+#### Security
+We take reasonable steps to ensure the security of the data from loss, misuse and unauthorized access. However, no internet nor physical form of communication is fully secure or error-free. Therefore, you should take special care in deciding what information you disclose to us and others.
+
+#### Contact
+If you wish to request, remove or change your data, you can contact us via Discord (kubaryt) or via email (kubarytcup@gmail.com). When contacting with email, please start the subject of the message with words “DATA REQUEST” - otherwise, we will ignore it. After a request, we may perform additional steps for the purpose of identification before processing it.
