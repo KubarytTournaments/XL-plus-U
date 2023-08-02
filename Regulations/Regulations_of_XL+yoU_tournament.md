@@ -187,7 +187,7 @@ Early meeting restarts. If players interact with each other in early turns, each
 - Organizer - Makes decisions and actions related to the marketing of the Tournament, the Regulations and the Website,
 - Judges - Makes decisions and actions related to the Players' compliance with the Timetable, Fair Play, the rest of the Regulations and helps the Players in case of problems with fulfilling its provisions,
 - Discord Server Moderator - Makes decisions and actions related to Discord,
-- Observer member - Does not play a special role in the Committee's operation, but may act fe. as an advisor,
+- Observer Member - Does not play a special role in the Committee's operation, but may act fe. as an advisor,
 
 1.2 Composition of Judges' Committee will be given in the first Ruling of Tournament.
 
