@@ -39,4 +39,4 @@
 4.1 Ustalam datę głosowania w sprawie zmiany regulaminowych zegarów obowiązujących na Szablonach na 15.08.2023. Głosowanie będzie tajne, równe i odbywać będzie się w gronie Graczy. Wynik głosowania zostanie uznany za wiążącym jeżeli weźmie w nim co najmniej 50% Graczy.
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
-<div align="right"><img src="https://cdn.discordapp.com/attachments/1022538414328913930/1114662064808542288/parafka.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
+<div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
