@@ -10,7 +10,7 @@
 
 0.4 In cases non included in regulations the Committee has deciding vote.
 
-0.5 Terms used in Regulations, but not defined therein, which definition differs from common are defined in [Appendix no 2](#appendux-no-2)
+0.5 Terms used in Regulations, but not defined therein, which definition differs from common are defined in [Appendix no 2](#appendix-no-2)
 
 0.6 Committee can make Rulings, method of making of Rulings and its shape determines [Appendix no 3](#appendix-no-3)
 
