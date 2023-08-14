@@ -71,13 +71,13 @@
 
 3.1 Templates for the Tournament's parties are:
 
-- 6lm10tp 1.0.1 [Link to download](https://drive.google.com/drive/folders/16d8AzGbxMpGz7Efy9c9bS7lgr80dFj8i)
-- Nostalgia TP [Link to download](https://drive.google.com/drive/folders/1es6bZJ73pwcjw02NwuuWH7n4rwIyygS9)
-- 8xm12a
-- Rally 2.2 [Link to download](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
-- Spider 2.0 [Link to download](https://drive.google.com/file/d/1pl1YEO-VfyzqcIBuX0Mn-jdAYS8POi3s/view?pli=1)
-- Sapphire 1.6a [Link to download](https://drive.google.com/file/d/1gx1RYghCmuBFFBgO9hms-Vqb0AjA9xMM/view)
-- Kubaryt 1.2a [Link to download](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
+- 6lm10xd [Link to download](https://drive.google.com/drive/folders/1_zuHK-D4tL2ctRNSJkD5e_UowBdfktLy)
+- Nostalgia TPNH [Link to download](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/NostalgiaTPNH)
+- 8xm12TP [Link to download](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/8xm12TP)
+- RallyTP [Link to download](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/RallyTP)
+- Spider 2.0 [Link to download](https://drive.google.com/drive/folders/13cTJwn4OPigVJvzpT2_DVUnL_nK1W9AG?usp=drive_link)
+- Sapphire 1.8 [Link to download](https://drive.google.com/file/d/1O6fuDhOdeqYPSEYT7UpSGVTBede7WB10/view)
+- Kubaryt 1.2d [Link to download](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
 
 3.2 Template settings are determined by [Appendix no 4](#appendix-no-4)
 
@@ -145,7 +145,7 @@ Early meeting restarts. If players interact with each other in early turns, each
 
 5.5  Standard hota online gameplay rules. Link to them is [here](https://h3hota.com/en/rules). If a rule in the Regulations conflicts with the one in standard hota rules, the Regulations takes priority.
 
-## 6. Kary
+## 6. Punishments
 
 6.1 The Committee has several ways to punish players for non-compliance with the Regulations and in exceptional situations, not mentioned in the Regulations. Penalty levels are defined as follows:
 
@@ -163,7 +163,7 @@ Early meeting restarts. If players interact with each other in early turns, each
 
 6.4 Players may appeal against the decision of the Committee at the latest on the day of the end of the phase following the phase in which they received the penalty.
 
-## 7. Zakończenie Gry
+## 7. End of the game
 
 - After the Party is played, the defeated player types “gg” both in case of the game being ranked, and in case it was not. “gg” in that case means admitting defeat, and can be a proof when writing a report. Decission about admitting defeat can't be canceled.
 
@@ -187,6 +187,7 @@ Early meeting restarts. If players interact with each other in early turns, each
 - Organizer - Makes decisions and actions related to the marketing of the Tournament, the Regulations and the Website,
 - Judges - Makes decisions and actions related to the Players' compliance with the Timetable, Fair Play, the rest of the Regulations and helps the Players in case of problems with fulfilling its provisions,
 - Discord Server Moderator - Makes decisions and actions related to Discord,
+- Secretary - Keeps the documentation of the Committee, writes a report on its work,
 - Observer Member - Does not play a special role in the Committee's operation, but may act fe. as an advisor,
 
 1.2 Composition of Judges' Committee will be given in the first Ruling of Tournament.
@@ -242,7 +243,7 @@ Early meeting restarts. If players interact with each other in early turns, each
 
 #### The default clock will be chosen from the given ones (normal, rapid, blitz) based on voting.
 
-#### 6lm10tp
+#### 6lm10xd
 
 > Map size: XL
 > 
@@ -278,7 +279,56 @@ Early meeting restarts. If players interact with each other in early turns, each
 > 
 > The choice of towns for Computer Players is random.
 
-#### Nostalgia TP
+Changes from 6lm10a:
+- Zone number changes:
+   - 6 -> 2,
+   - 2 -> 6,
+   - 14 -> 10,
+   - 10 -> 14,
+   - 16 -> 8,
+   - 8 -> 16,
+   - 20 -> 18,
+   - 18 -> 20,
+   - 25 -> 22,
+   - 22 -> 25,
+- Connection changes:
+   - The wide connection between zones 21 and 25 and 24 and 22 (so-called 0k) has been replaced with a 3k connection without a road, on the surface, a fictive connection has also been added to it
+   - Added fictive connections between zones 1 (so-called red starting zone) and 17 (so-called STZ), 1 and 21 (so-called bypass zone), 17 and 21; 2 (the so-called blue starting zoneer) and 18 (the so-called STZ), 2 and 22 (the so-called bypass zone), 18 and 22; 5 (so-called orange starting zoneer) and 19 (so-called STZ), 5 and 24 (so-called bypass zone), 19 and 24; 6 (so-called purple starting zoner) and 20 (so-called STZ), 6 and 25 (so-called bypass zone), 20 and 25; 3 (the so-called brown starting zone) and 23 (the so-called middle bypass zone), 4 (the so-called green starting zone) and 23,
+- Treasure value changes in zones:
+   - in zones 1-6, 11 and 12 (so-called starting zones):
+     - reduced the minimum value of group 2 treasures from 3000 to 2000,
+     - increased the maximum value of group 2 treasures from 6000 to 7000,
+   - in zones 7-10 and 13-16 (so-called treasure zone):
+     - reduced the minimum value of group 1 treasures from 15000 to 10000,
+     - reduced the minimum value of group 2 treasures from 10000 to 9000,
+     - reduced the minimum value of group 3 treasures from 3000 to 2000,
+     - reduced the maximum value of group 2 treasures from 15000 to 12000,
+     - reduced the maximum value of group 3 treasures from 6000 to 5000,
+     - group 1 treasure density increased from 1 to 3,
+   - in zones 17-20 (so-called super-trunks):
+     - reduced the minimum value of group 1 treasures from 20000 to 18000,
+     - reduced the minimum value of group 2 treasures from 15000 to 9000,
+     - reduced the minimum value of group 3 treasures from 10000 to 5000,
+     - reduced the maximum value of group 2 treasures from 20000 to 18000,
+     - reduced the maximum value of group 3 treasures from 15000 to 11000,
+     - group 1 treasure density increased from 1 to 3,
+     - group 2 treasure density increased from 6 to 9,
+     - blocked occurrence of creature habitats,
+   - in zones 21-25 (so-called bypass zones):
+     - reduced the minimum value of group 1 treasures from 10000 to 9000,
+     - reduced the minimum value of group 2 treasures from 3000 to 2000,
+     - increased the maximum value of group 2 treasures from 6000 to 7000,
+     - group 2 treasure density increased from 6 to 7.
+- Banned spells: Sorrow, Slayer, Fire Shield, Inferno, Counterstrike, Magic Mirror, Sacrifice,
+- Banned skills: Eagle Eye, Learning, First Aid,
+- Set the maximum amount of Dragon Utopias per zone (except Super Treasure and Treasure) to 1,
+- Set the maximum number of Griffin Conservatories per zone to 2,
+- Object value change: Imp Cache lowered from 5000 to 3000,
+- Locked Artifacts: Statesman's Medal, Ambassador's Sash, Diplomat's Ring, Ring of Infinite Gem, Eversmoking Ring of Sulfur, Everflowing Crystal Cloth, Everpouring Vial of Mercury, Endless Sack of Gold, Endless Purse of Gold, Endless Bag of Gold,
+- Artifacts unlocked: Curnocopia, Golden Goose,
+- Banned Heroes: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre.
+
+#### Nostalgia TPNH
 
 > Map size: XL
 > 
@@ -314,7 +364,14 @@ Early meeting restarts. If players interact with each other in early turns, each
 > 
 > The first 3 computer players belong to the red player, the remaining 3 belong to the blue player. The blue player chooses the first town for one of his computer players, the players take turns choosing towns. Each town can only be used once.
 
-#### 8xm12a
+Template changes compared to Nostalgia:
+
+- Banned spells: Sorrow, Slayer, Fire Shield, Inferno, Counterstrike, Magic Mirror, Sacrefice,
+- Banned objects in zone 3 (so called Super Treasure): warehouses, windmills, t1 and t2 lvl dwellings, t1-3 shrines,
+- Banned heroes: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre,
+- Object value changes: Imp Cache value decreased from 5000 to 3000.
+
+#### 8xm12TP
 
 > Map size: XL
 > 
@@ -350,7 +407,17 @@ Early meeting restarts. If players interact with each other in early turns, each
 > 
 > The choice of towns for Computer Players is random.
 
-#### Rally 2.2
+Template changes compared to 8xm12a:
+
+- Banned spells: Sorrow, Slayer, Fire Shield, Inferno, Counterstrike, Magic Mirror, Sacrefice,
+- Banned heroes: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre,
+- Number of Griffin Conservatory per zone limited to 2 (don't apply to zone 33 so called Super Treasure),
+- Banned terrains in zones 21-32: swamp, sand, snow,
+- Banned objects: Seer's Hut,
+- Zone 24 and 29 guards' faction is `Neutral`,
+- Object value change: Imp Cache valu edecreased from 5000 to 3000.
+
+#### RallyTP
 
 > Map size: XL
 > 
@@ -385,6 +452,11 @@ Early meeting restarts. If players interact with each other in early turns, each
 > Additional rules:
 > 
 > The choice of towns for Computer Players is random.
+
+Template changes compared to Rally 2.2:
+
+- Banned heroes: Christian, Edric, Korbac, Pyre,
+- Object value change: Imp Cache valu edecreased from 5000 to 3000.
 
 #### Spider 2.0
 
@@ -422,7 +494,9 @@ Early meeting restarts. If players interact with each other in early turns, each
 > 
 > The choice of towns for Computer Players is random.
 
-#### Sapphire 1.6a
+Template changes compared to Spider described in `Spider 2.0.pdf` file [link](https://drive.google.com/drive/folders/13cTJwn4OPigVJvzpT2_DVUnL_nK1W9AG)
+
+#### Sapphire 1.8
 
 > Map size: XL
 > 
@@ -458,7 +532,7 @@ Early meeting restarts. If players interact with each other in early turns, each
 > 
 > The method of selecting towns for Computer Players described in this [document](https://docs.google.com/document/d/1wQViejFomFIcaJfLZve-twzun8CuLEgLhv_qnkW167o/edit)
 
-#### Kubaryt 1.2a
+#### Kubaryt 1.2d
 
 > Map size: XL
 > 
