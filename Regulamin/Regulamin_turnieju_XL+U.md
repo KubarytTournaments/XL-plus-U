@@ -2,7 +2,7 @@
 
 ## 0. Wstęp
 
-0.1 XL+yoU (dalej zwany Turniejem) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). O zasadach Turnieju stanowi Regulamin turnieju XL+touU (dalej zwany Regulaminem) oraz załączone do niego dokumenty.
+0.1 XL+yoU (dalej zwany Turniejem) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). O zasadach Turnieju stanowi Regulamin turnieju XL+yoU (dalej zwany Regulaminem) oraz załączone do niego dokumenty.
 
 0.2 Turniej organizowany jest przez Komitet Sędziowski (dalej zwany Komitetem). O sposobie działania Komitetu oraz jego składzie stanowi [Załącznik nr 1](#załącznik-nr-1).
 
@@ -61,7 +61,7 @@ III miejsce: 200 zł <br>
   - Od fazy 1/4 finału transmitowanie swoich Partii jest obowiązkowe
 - Finał Fazy Pucharowej odbywa się między zwycięzcą Dolnej Drabinki a zwycięzcą Górnej Drabinki:
   - Obowiązuje Bo5,
-  - Czas na fazę do 3 tygodnie,
+  - Czas na fazę to 3 tygodnie,
   - Zwycięzca Górnej Drabinki zaczyna z jednym punktem przewagi,
   - Transmitowanie swoich Partii jest obowiązkowe.
 
@@ -79,14 +79,14 @@ III miejsce: 200 zł <br>
 - Sapphire 1.8 [Link do pobrania](https://drive.google.com/file/d/1O6fuDhOdeqYPSEYT7UpSGVTBede7WB10/view)
 - Kubaryt 1.2d [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
 
-3.2 Ustawienia szablonów reguluje [Załącznik nr 4](#załącznik-nr-4)
+3.2 Ustawienia szablonów reguluje [Załącznik nr 4](#załącznik-nr-4).
 
 3.3 Partie powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Grze. W przypadku gdy HotA Lobby nie jest dostępne Partię można rozegrać za pośrednictwem Hamachi lub Game Rangera.
 
 3.4 Przygotowanie rozgrywki:
 
 - Jeden z Graczy zakłada pokój w HotA lobby (będzie on gospodarzem), drugi Gracz dołącza do założonego przez gospodarza pokoju w lobby (będzie on gościem)
-- Gość wybiera cyfrę 1 lub 0, gospodarz za pośrednictwem opcji Coin Flip losuje cyfrę 1 lub 0.
+- Gość wybiera cyfrę 1 lub 0, gospodarz za pośrednictwem opcji `Coin Flip` losuje cyfrę 1 lub 0.
 
 3.5 Wybór szablonów:
 
@@ -107,7 +107,7 @@ III miejsce: 200 zł <br>
 
 4.1 Pierwszy decyzję o restarcie podejmuje Gracz czerwony, a następnie Gracz niebieski. (Jeśli nastąpi sytuacja, kiedy Gracz niebieski odda turę z chęcią restartu, a następnie Gracz czerwony odda turę i nastąpi kolejny dzień, Gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie Gracz niebieski jest zobowiązany do grania mapy).
 
-4.2 Graczom przysługją tzw. restarty techniczne, które dostępne są jeżeli:
+4.2 Graczom przysługją restarty techniczne, które dostępne są jeżeli:
 
 - Mapa jest zbugowana, np. brakuje jakiegoś portalu*,
 - Na drodze znajduje się strażnik, który blokuje całe przejście, a pokonanie go będzie skutkowało utratą co najmniej 70% wojska,
@@ -157,7 +157,7 @@ III miejsce: 200 zł <br>
 - Dyskwalifikacja - otrzymywana za duże przewinienia,
 - Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w Turnieju na czas określony, lub nieokreślony.
 
-6.2 Komitet w wyjątkowych sytuacjach może zastosować karę inną niż wymienione w punkcie 7.1.
+6.2 Komitet w wyjątkowych sytuacjach może zastosować karę inną niż wymienione w punkcie 6.1.
 
 6.3 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie.
 
