@@ -4,7 +4,7 @@
 
 0.1 XL+yoU (dalej zwany Turniejem) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). O zasadach Turnieju stanowi Regulamin turnieju XL+touU (dalej zwany Regulaminem) oraz załączone do niego dokumenty.
 
-0.2 Turniej organizowana jest przez Komitet Sędziowski (dalej zwany Komitetem). O sposobie działania Komitetu oraz jego składzie stanowi [Załącznik nr 1](#załącznik-nr-1).
+0.2 Turniej organizowany jest przez Komitet Sędziowski (dalej zwany Komitetem). O sposobie działania Komitetu oraz jego składzie stanowi [Załącznik nr 1](#załącznik-nr-1).
 
 0.3 Polskojęzyczna wersja Regulaminu jest obowiązująca. Jeżeli w angielskojęzyczna wersja Regulaminu jest sprzeczna z polskojęzyczną, to należy postępować wedle polskojęzycznej wersji Regulaminu.
 
@@ -55,9 +55,9 @@ III miejsce: 200 zł <br>
   - Każda runda Górnej Drabinki będzie trwać 2 tygodnie z zastrzeżeniem Załącznika nr 3,
   - Od fazy 1/4 finału transmitowanie swoich Partii jest obowiązkowe.
 - Faza Dolnej Drabinki:
-  - Zwycięzca meczu przechodzi do następnej rundy Dolnej Drabinki, przegrany przechodzi do Dolnej Drabinki,
-  - Obowiązuje Bo3,
-  - Każda runda Górnej Drabinki będzie trwać tydzień z zastrzeżeniem Załącznika nr 3,
+  - Zwycięzca meczu przechodzi do następnej rundy Dolnej Drabinki, przegrany zostaje wyeliminowany z Turnieju,
+  - Obowiązuje Bo1,
+  - Każda runda Dolnej Drabinki będzie trwać tydzień z zastrzeżeniem Załącznika nr 3,
   - Od fazy 1/4 finału transmitowanie swoich Partii jest obowiązkowe
 - Finał Fazy Pucharowej odbywa się między zwycięzcą Dolnej Drabinki a zwycięzcą Górnej Drabinki:
   - Obowiązuje Bo5,
