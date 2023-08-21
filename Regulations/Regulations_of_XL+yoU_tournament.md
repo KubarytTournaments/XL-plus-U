@@ -1,5 +1,27 @@
 # Regulations of XL+yoU tournament
 
+## Table of Contents
+
+### Regulations
+
+- [0. Introduction](#0-introduction) - Specifies key issues related to the organizational backend. Including Tournament organizers and documents constituting Tournament rules,
+- [1. General Provisions](#1-general-provisions) - Defines participation conditions, prize pool, and the official communication method,
+- [2. Tournament Format and Timetable](#2-tournament-format-and-timetable) - Specifies phases in the Tournament, their course, and their schedule,
+- [3. Gameplay](#3-gameplay) - Specifies templates in the Tournament, the game playing method, and the way of choosing templates, colors, and towns,
+- [4. Restarts](#4-restarts) - Specifies rules for using restarts in Parties,
+- [5. Fair Play Rules](#5-fair-play-rules) - Specifies Tournament fair play rules,
+- [6. Punishments](#6-punishments) - Specifies types of penalties, their issuance method, and the procedure for appealing against a penalty,
+- [7. End of the Game](#7-end-of-the-game) - Specifies the way the Party end.
+
+### Appendices
+
+- [Appendix no 1](#appendix-no-1) - Specifies the composition of the Judges' Committee and its operating method,
+- [Appendix no 2](#appendix-no-2) - Specifies definitions of terms used in the Regulations (and meeting other conditions of point 0.6),
+- [Appendix no 3](#appendix-no-3) - Specifies the method of issuing Decisions and their form,
+- [Appendix no 4](#appendix-no-4) - Specifies template settings in the Tournament,
+- [Appendix no 5](#appendix-no-5) - An example method of drawing templates to be banned according to point 3.5,
+- [Appendix no 6](#appendix-no-6) - Specifies the Tournament's privacy policy.
+
 ## 0. Introduction
 
 0.1 Kubaryt League (hereinafter referred to as the Tournament) is tournament played in game Heroes of Might and Magic III with Horn of the Abyss addon (hereinafter reffered to as the Game). The rules are set out in the Regulations of XL+yoU tournament and appendices to it (hereinafter reffered to as the Regulations).
@@ -103,7 +125,7 @@
 - Players can *reroll* and ban 0-2 drawn towns for a fee of 500 gold. The first to *reroll* declares the winner of the coinflip. There is a maximum of one such ban per Player. If the same pair of towns is drawn as before the *reroll*, the draw must be repeated.
 - Bidding of town and color begins with Player, who won coinflip. First bidding is about town, second about color.
 
-## 4. Restarty
+## 4. Restarts
 
 4.1 Red is the first that has to decide if they take a restart, blue is second. (If blue passes turn intending to take a restart, in order to not give it away, and then red does not take restart and ends turn, blue has to write 111 in the first 5 seconds after accepting his turn. After that time, blue has to play the map).
 
