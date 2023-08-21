@@ -1,4 +1,26 @@
-# Regulamin turnieju XL+youU
+# Regulamin turnieju XL+yoU
+
+## Spis treści
+
+### Regulamin
+
+- [0. Wstęp](#0-wstęp) - Określa najważniejsze kwestie związane z zapleczem organizatorskim. M.in. organizatorów Turnieju i dokumenty stanowiące zasady Turnieju,
+- [1. Postanowienia Ogólne](#1-postanowienia-ogólne) - Określa warunki uczestnictwa, pulę nagród i oficjalny sposób komunikacji,
+- [2. Format Turnieju i terminarz](#2-format-turnieju-i-terminarz) - Określa fazy w Turineju, sposób ich przebiegu i ich terminarz,
+- [3. Rozgrywka](#3-rozgrywka) - Określa szablony w Turnieju, sposób rozgrywania gier i sposób wyboru szablonów, kolorów i zamków,
+- [4. Restarty](#4-restarty) - Określa zasady korzystania z restartów w Partiach,
+- [5. Fair play](#5-fair-play) - Określa zasady fair play Turnieju,
+- [6. Kary](#6-kary) - Określa rodzaje kar i sposób ich wydawania oraz tryb odwołania się od kary,
+- [7. Zakończenie Gry](#7-zakończenie-gry) - określa sposób zakończenia Partii.
+
+### Załączniki
+
+- [Załącznik nr 1](#załącznik-nr-1) - Określa skład Komitetu Sędziowskiego i sposób jego działania,
+- [Załącznik nr 2](#załącznik-nr-2) - Określa definicje terminów użytych w Regulamin (i spełniających inne warunki punktu 0.6),
+- [Załącznik nr 3](#załącznik-nr-3) - Określa sposób wydawania Orzeczeń i ich kształt,
+- [Załącznik nr 4](#załącznik-nr-4) - Określa ustawienia szablonóœ w Turnieju,
+- [Załącznik nr 5](#załącznik-nr-5) - Przykładowy sposób losowania szablonów do zbanowania zgodnie z punktem 3.5,
+- [Załącznik nr 6](#załącznik-nr-6) - Określa politykę prywatności Turnieju.
 
 ## 0. Wstęp
 
