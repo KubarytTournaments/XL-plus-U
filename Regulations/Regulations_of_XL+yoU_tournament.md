@@ -362,7 +362,7 @@ Changes from 6lm10a:
 > 
 > Teams: None
 > 
-> Road type: Only medium (middle option)
+> Road type: Only fast (right-most option)
 > 
 > Water content: None
 > 
@@ -451,7 +451,7 @@ Template changes compared to 8xm12a:
 > 
 > Teams: None
 > 
-> Road type: Only medium (middle option)
+> Road type: Only fast (right-mostTo nie zmienia f option)
 > 
 > Water content: None
 > 
