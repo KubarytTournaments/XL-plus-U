@@ -93,13 +93,13 @@
 
 3.1 Templates for the Tournament's parties are:
 
-- 6lm10xd [Link to download](https://drive.google.com/drive/folders/1_zuHK-D4tL2ctRNSJkD5e_UowBdfktLy)
+- 6lm10xDa [Link to download](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/6lm10xDa)
 - Nostalgia TPNH [Link to download](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/NostalgiaTPNH)
 - 8xm12TP [Link to download](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/8xm12TP)
 - RallyTP [Link to download](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/RallyTP)
 - Spider 2.0 [Link to download](https://drive.google.com/drive/folders/13cTJwn4OPigVJvzpT2_DVUnL_nK1W9AG?usp=drive_link)
 - Sapphire 1.8 [Link to download](https://drive.google.com/file/d/1O6fuDhOdeqYPSEYT7UpSGVTBede7WB10/view)
-- Kubaryt 1.2d [Link to download](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
+- Kubaryt 1.2e [Link to download](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
 
 3.2 Template settings are determined by [Appendix no 4](#appendix-no-4)
 
@@ -265,7 +265,7 @@ Early meeting restarts. If players interact with each other in early turns, each
 
 #### The default clock will be chosen from the given ones (normal, rapid, blitz) based on voting.
 
-#### 6lm10xd
+#### 6lm10xDa
 
 > Map size: XL
 > 
@@ -348,6 +348,7 @@ Changes from 6lm10a:
 - Object value change: Imp Cache lowered from 5000 to 3000,
 - Locked Artifacts: Statesman's Medal, Ambassador's Sash, Diplomat's Ring, Ring of Infinite Gem, Eversmoking Ring of Sulfur, Everflowing Crystal Cloth, Everpouring Vial of Mercury, Endless Sack of Gold, Endless Purse of Gold, Endless Bag of Gold,
 - Artifacts unlocked: Curnocopia, Golden Goose,
+- Enabled Heroes: Sylvia, Catherine, Roland, Haart Lich, Mutare Drake, Boragus, Adrienne, Voy,
 - Banned Heroes: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre.
 
 #### Nostalgia TPNH
@@ -391,6 +392,7 @@ Template changes compared to Nostalgia:
 - Banned spells: Sorrow, Slayer, Fire Shield, Inferno, Counterstrike, Magic Mirror, Sacrefice,
 - Banned objects in zone 3 (so called Super Treasure): warehouses, windmills, t1 and t2 lvl dwellings, t1-3 shrines,
 - Banned heroes: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre,
+- Enabled Heroes: Sylvia, Catherine, Roland, Haart Lich, Mutare Drake, Boragus, Adrienne, Voy,
 - Object value changes: Imp Cache value decreased from 5000 to 3000.
 
 #### 8xm12TP
@@ -432,6 +434,7 @@ Template changes compared to Nostalgia:
 Template changes compared to 8xm12a:
 
 - Banned spells: Sorrow, Slayer, Fire Shield, Inferno, Counterstrike, Magic Mirror, Sacrefice,
+- Enabled Heroes: Sylvia, Catherine, Roland, Haart Lich, Mutare Drake, Boragus, Adrienne, Voy,
 - Banned heroes: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre,
 - Number of Griffin Conservatory per zone limited to 2 (don't apply to zone 33 so called Super Treasure),
 - Banned terrains in zones 21-32: swamp, sand, snow,
@@ -554,7 +557,7 @@ Template changes compared to Spider described in `Spider 2.0.pdf` file [link](ht
 > 
 > The method of selecting towns for Computer Players described in this [document](https://docs.google.com/document/d/1wQViejFomFIcaJfLZve-twzun8CuLEgLhv_qnkW167o/edit)
 
-#### Kubaryt 1.2d
+#### Kubaryt 1.2e
 
 > Map size: XL
 > 
