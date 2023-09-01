@@ -93,13 +93,13 @@ III miejsce: 200 zł <br>
 
 3.1 Szablonami map losowych obowiązującymi w rozgrywkach Turnieju są:
 
-- 6lm10xd [Link do pobrania](https://drive.google.com/drive/folders/1_zuHK-D4tL2ctRNSJkD5e_UowBdfktLy)
+- 6lm10xDa [Link do pobrania](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/6lm10xDa)
 - NostalgiaTPNH [Link do pobrania](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/NostalgiaTPNH)
 - 8xm12TP [Link do pobrania](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/8xm12TP)
 - RallyTP [Link do pobrania](https://github.com/KubarytTournaments/XL-plus-U/tree/Templates/RallyTP)
 - Spider 2.0 [Link do pobrania](https://drive.google.com/drive/folders/13cTJwn4OPigVJvzpT2_DVUnL_nK1W9AG)
 - Sapphire 1.8 [Link do pobrania](https://drive.google.com/file/d/1O6fuDhOdeqYPSEYT7UpSGVTBede7WB10/view)
-- Kubaryt 1.2d [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
+- Kubaryt 1.2e [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
 
 3.2 Ustawienia szablonów reguluje [Załącznik nr 4](#załącznik-nr-4).
 
@@ -290,7 +290,7 @@ III miejsce: 200 zł <br>
 
 #### Domyślny zegar zostanie wybrany spośród podanych (normalny, rapid, blitz) na podstawie głosowania.
 
-#### 6lm10xd
+#### 6lm10xDa
 
 > Rozmiar mapy: XL+U
 > 
@@ -375,6 +375,7 @@ Zmiany względem 6lm10a:
 - Zmiana wartości obiektów: Skrytka Chochlików (Imp Cache) wartość obniżona z 5000 do 3000,
 - Zablokowane artefakty: Medal Męża Stanu, Szarfa Ambasadora, Pierścień Dyplomaty, Pierścień Nieskończonych Bogactw, Pierścień Płonącej Siarki, Płaszcz Błyszczącego Kryształu, Bezdenny Tygiel Rtęci, Bezdenny Mieszek Złota, Bezdenna Sakiewka Złota, Bezdenny Worek Złota,
 - Odblokowane artefakty: Miasto Dobrobytu, Złota Gęś,
+- Odblokowani bohaterowie: Sylvia, Catherine, Roland, Haart Lich, Mutare Drake, Boragus, Adrienne, Voy,
 - Zbanowani bohaterowie: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre.
 
   
@@ -419,10 +420,11 @@ Zmiany względem 6lm10a:
 
 Zmiany względem Nostalgii:
 
-- Zbanowane czary: Smutek, Pogromca, Tarca Ognia, Inferno, Kontratak, Magiczne Zwierciadło, Ofiara
-- Zbanowane obiekty w strefie 3 (tzw. `supertreżak`): składowiska surowców, młyny, siedliska jednostek 1 i 2 poziomu, kapliczki czarów poziomu 1-3, klasa artefaktów Skarb
-- Zbanowani bohaterowie: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre
-- Zmiana wartości obiektów: Skrytka Chochlików (Imp Cache) wartość obniżona z 5000 do 3000
+- Zbanowane czary: Smutek, Pogromca, Tarca Ognia, Inferno, Kontratak, Magiczne Zwierciadło, Ofiara,
+- Zbanowane obiekty w strefie 3 (tzw. `supertreżak`): składowiska surowców, młyny, siedliska jednostek 1 i 2 poziomu, kapliczki czarów poziomu 1-3, klasa artefaktów Skarb,
+- Zbanowani bohaterowie: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre,
+- Zmiana wartości obiektów: Skrytka Chochlików (Imp Cache) wartość obniżona z 5000 do 3000,
+- Odblokowani bohaterowie: Sylvia, Catherine, Roland, Haart Lich, Mutare Drake, Boragus, Adrienne, Voy.
 
 #### 8xm12TP
 
@@ -464,13 +466,14 @@ Zmiany względem Nostalgii:
 
 Zmiany względem 8xm12a
 
-- Zbanowane czary: Smutek, Pogromca, Tarca Ognia, Inferno, Kontratak, Magiczne Zwierciadło, Ofiara
-- Zbanowani bohaterowie: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre
-- Limit konserwatioriów gryfów na strefę: 2 (nie dotyczy strefy 33, tzw. `supertreżak`)
-- Zbanowane tereny w strefach 21-32: bagno, pustynia, śnieg
-- Zbanowane obiekty: Chatka Jasnowidza
-- Strażnicy w strefach 24 i 29 są z frakcji `Neutralni`
-- Zmiana wartości obiektów: Skrytka Chochlików (Imp Cache) wartość obniżona z 5000 do 3000
+- Zbanowane czary: Smutek, Pogromca, Tarca Ognia, Inferno, Kontratak, Magiczne Zwierciadło, Ofiara,
+- Zbanowani bohaterowie: Ufretin, Straker, Piquedram, Verdish, Rion, Gerwulf, Christian, Edric, Korbac, Pyre,
+- Limit konserwatioriów gryfów na strefę: 2 (nie dotyczy strefy 33, tzw. `supertreżak`),
+- Zbanowane tereny w strefach 21-32: bagno, pustynia, śnieg,
+- Zbanowane obiekty: Chatka Jasnowidza,
+- Strażnicy w strefach 24 i 29 są z frakcji `Neutralni`,
+- Zmiana wartości obiektów: Skrytka Chochlików (Imp Cache) wartość obniżona z 5000 do 3000,
+- Odblokowani bohaterowie: Sylvia, Catherine, Roland, Haart Lich, Mutare Drake, Boragus, Adrienne, Voy.
 
 #### Rally 2.2
 
@@ -587,7 +590,7 @@ Zmiany względem Spider opisane w pliku `Spider 2.0.pdf` [link](https://drive.go
 >
 > Sposób wyboru zamków dla Graczy komputerowych opisany w tym [dokumencie](https://docs.google.com/document/d/1wQViejFomFIcaJfLZve-twzun8CuLEgLhv_qnkW167o/edit)
 
-#### Kubaryt 1.2d
+#### Kubaryt 1.2e
 
 > Rozmiar mapy: XL+U
 > 
