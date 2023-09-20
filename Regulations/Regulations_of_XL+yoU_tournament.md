@@ -24,7 +24,7 @@
 
 ## 0. Introduction
 
-0.1 Kubaryt League (hereinafter referred to as the Tournament) is tournament played in game Heroes of Might and Magic III with Horn of the Abyss addon (hereinafter reffered to as the Game). The rules are set out in the Regulations of XL+yoU tournament and appendices to it (hereinafter reffered to as the Regulations).
+0.1 XL+You (hereinafter referred to as the Tournament) is tournament played in game Heroes of Might and Magic III with Horn of the Abyss addon (hereinafter reffered to as the Game). The rules are set out in the Regulations of XL+yoU tournament and appendices to it (hereinafter reffered to as the Regulations).
 
 0.2 Tournament is organized by Judges Committee (hereinafter reffered to as the Committee). [Appendix no 1](#appendix-no-1) determines the method of operation of the Committee and its composition.
 
