@@ -11,4 +11,4 @@
 
 2.2 Przedłużam termin na fazę 1/8 Górnej Drabinki do 13.10.2023.
 
-Szef Komitetu Kubaryt
+#### Szef Komitetu Kubaryt
