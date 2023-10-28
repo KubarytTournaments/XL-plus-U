@@ -1,7 +1,7 @@
 https://github.com/KubarytTournaments/XL-plus-U/blob/English/Rulings/Ruling%231015X.md# Ruling #1015X
 
 ## 1. Withdrawals
-    - Keszu
+- Keszu
   
 ## 2. Timetable
 
