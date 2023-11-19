@@ -78,7 +78,7 @@
   - From quater-final of Upper Bracket Phase streaming is obligatory.
 - Bottom Bracket Phase:
   - Winner of the match passes to next round of Bottom Bracket Phase, loser is eliminated from the Tournament.
-  - Applies Best of One game system.
+  - Applies Best of One game system, in final of Bottom Bracket applies Best of Three.
   - Every round of Upper Bracket Phase will last 1 week, with reservation for Appendix no 3.
   - rom quater-final of Bottom Bracket Phase streaming is obligatory.
 - Bracket Phase Final will be played beetwen winner of Bottom Bracket Phase and winner of Upper Bracket Phase:
