@@ -78,7 +78,7 @@ III miejsce: 200 zł <br>
   - Od fazy 1/4 finału transmitowanie swoich Partii jest obowiązkowe.
 - Faza Dolnej Drabinki:
   - Zwycięzca meczu przechodzi do następnej rundy Dolnej Drabinki, przegrany zostaje wyeliminowany z Turnieju,
-  - Obowiązuje Bo1,
+  - Obowiązuje Bo1, w finale Dolnej Drabinki obowiązuje Bo3
   - Każda runda Dolnej Drabinki będzie trwać tydzień z zastrzeżeniem Załącznika nr 3,
   - Od fazy 1/4 finału transmitowanie swoich Partii jest obowiązkowe
 - Finał Fazy Pucharowej odbywa się między zwycięzcą Dolnej Drabinki a zwycięzcą Górnej Drabinki:
