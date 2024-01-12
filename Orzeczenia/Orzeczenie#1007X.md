@@ -7,7 +7,8 @@
 2.1 Zatwierdzam Regulamin w wersji V1.4d. 
 Zmiany względem wersji V1.4c:
 - zaktualizowano linki, nazwy i opisy szablonów
-## 2.2 Zatwierdzam Regulations w wersji V1.1c.
+
+2.2 Zatwierdzam Regulations w wersji V1.1c.
 Zmiany względem wersji V1.1b jak w punkcie 2.1
 
 #### Szef Komitetu Kubaryt
