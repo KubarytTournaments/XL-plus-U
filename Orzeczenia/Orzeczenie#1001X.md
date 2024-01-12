@@ -11,4 +11,4 @@
 - Trivia
 
 
-### Szef Komitetu Kubaryt
+#### Szef Komitetu Kubaryt
