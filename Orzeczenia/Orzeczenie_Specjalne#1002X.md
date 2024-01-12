@@ -35,7 +35,7 @@
 - Człowiek - Sekretarz,
 - Moderator serwera Discord - Proroc3Y.
 
-3.2 Z momentem opublikowania niniejszego Orzeczenia wszystkich członków Komitetu z ich funkcji.
+3.2 Z momentem opublikowania niniejszego Orzeczenia zwalniam wszystkich członków Komitetu z ich funkcji.
 
 3.3 Publikuję sprawozdanie z pracy Komitetu. [Link](https://github.com/KubarytTournaments/XL-plus-U/blob/Polish/Orzeczenia/Za%C5%82%C4%85cznik_nr_1_S%231002X.md)
 <br/>
