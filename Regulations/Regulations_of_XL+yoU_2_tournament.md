@@ -279,7 +279,7 @@
 > [!IMPORTANT]
 > Committee recommends to, after using subjective restarts, send a Game save to the Committee, in order to check the availability of technical restarts on a given generation.
 
-4. After using subjective restarts, Participants can use early encounter restarts. They are available if there is an interaction between Participants in turn 115 for fast roads and 116 for medium roads, each Participant has the right to demand an early encounter restart, but it is not mandatory. Interaction between Participants is defined as any fight between Participants or taking over an object belonging to the opponent.
+4. After using subjective restarts, Participants can use early encounter restarts. They are available if there is an interaction between Participants in turn 115 for fast roads and 116 for medium roads, each Participant has the right to demand an early encounter restart, but it is not mandatory. Interaction between Participants is defined as any fight between Participants or taking over an object belonging to the opponent. Early Encounter Restarts can be used only after first interaction between Participants on given generation.
 
 5. None of the restarts can be used to change the starting hero or starting town or starting bonus.
 
