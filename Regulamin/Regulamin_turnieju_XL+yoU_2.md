@@ -151,7 +151,7 @@
 
    `2)` na wniosek obu Uczestników Meczu oraz za zgodą Uczestnika, z którym zmierzyłby się zwycięzca Meczu, w którym występuje problem z terminowym rozegraniem, Komitet może przedłużyć termin na rozegranie Meczu o więcej niż jeden dzień, z zastrzeżeniem, że Uczestnicy powinni wcześniej ustalić termin Meczu w następnej rundzie z ich potencjalnym przeciwnikiem w tejże, a następnie podać go Komitetowi,
 
-   `3)` na wniosek obu Uczestników Meczu, lub decyzją Komitetu, system rozgrywek może zostanie zmieniony w danym Meczu na Bo1, nie dotyczy to Finału Fazy Pucharowej.
+   `3)` na wniosek obu Uczestników Meczu, lub decyzją Komitetu, system rozgrywek może zostać zmieniony w danym Meczu na Bo1, nie dotyczy to Finału Fazy Pucharowej.
 
 8. W przypadku problemów ze znalezieniem wspólnego terminu Gry, Komitet, na wniosek jednego z Uczestników Meczu lub własną decyzją, może wyznaczyć termin sędziowski dla danej Gry.
 
@@ -279,7 +279,7 @@
 > [!IMPORTANT]
 > Komitet zaleca, aby po wykorzystaniu restartów subiektywnych, wysłac jednemu z sędziów zapis Partii oraz hasła do niego od obu Uczestników Partii, w celu sprawdzenia dostępności restartów technicznych na danej generacji
 
-4. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą skorzystać z restartów wczesnego spotkania. Dostępne są one, jeżeli nastąpi interakcja między Uczestnikami w turze 115 dla szybkich i 116 dla średnich dróg, każdy z Uczestników ma prawo zażądać restartu wczesnego spotkania, jednak nie jest to obowiązkowe. Interakcja między Uczestnikami jest zdefiniowana jako jakakolwiek walka między Uczestnikami lub przejęcie obiektu należącego do przeciwnika.
+4. Po wykorzystaniu subiektywnych restartów Uczestnicy mogą skorzystać z restartów wczesnego spotkania. Dostępne są one, jeżeli nastąpi interakcja między Uczestnikami w turze 115 dla szybkich i 116 dla średnich dróg, każdy z Uczestników ma prawo zażądać restartu wczesnego spotkania, jednak nie jest to obowiązkowe. Interakcja między Uczestnikami jest zdefiniowana jako jakakolwiek walka między Uczestnikami lub przejęcie obiektu należącego do przeciwnika. Restarty wczesnego spotkania mogą zostać wykorzystane jedynie przy pierwszej interakcji między Uczestnikami na danej generacji.
 
 5. Żaden z restartów nie może zostać wykorzystany do zmiany wybranego bohatera startowego lub premii startowej.
 
