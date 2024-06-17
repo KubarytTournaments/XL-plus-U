@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 2 <br>Referee Committee
 
-<p align="right">14/06/2024</p>
+<p align="right">17/06/2024</p>
 
 <h1 align="center">Regulations of XL+yoU 2 Tournament</h1>
 
@@ -123,13 +123,13 @@
 
    `3)` the Knockout Phase will be divided into the Upper Bracket and Lower Bracket, both will be played in a knockout system, and the Final of the Knockout Phase, between the winners of both brackets,
 
-   `4)` in the 1st round of the Knockout Phase, Participants will face each other in pairs, which will be determined based on the places taken in the previous phase, in the second place the number of points scored in the previous phase, and in the third place based on *Radamantys*, covering the period from 24 June 2023 to the end of the group phase,
+   `4)` In the 1st round of the Knockout Phase, Participants will face each other in pairs, which will be determined based on a table established according to the places occupied in the previous phase, in the second order the number of points scored in the previous phase, and in the third order based on Radamantys, taking into account the period from June 24, 2023, to the end of the group phase. In the upper part of such a table, i.e., Participants occupying 1st place in the group, who, according to the pairing rule of the best with the weakest, would play against Participants occupying 2nd place in the group, will be seeded according to the order in this table. The middle part, i.e., Participants occupying 1st place in the group, who, according to the pairing rule of the best with the best, would play against Participants occupying 1st place in the group, will be randomly paired within this middle part. The lower part of the table, i.e., Participants who occupied 2nd place in the group, will be randomly paired, where each pair will consist of one Participant from the upper part and one Participant from the lower part.
 
    `4b)` two Participants who played in the same group in the Group Phase cannot play against each other in the first round of the Knockout Phase,
 
    `4c)` Participants mentioned in [paragraph `2b)` of point 3 of this chapter](#point-2-3-2b), will be treated as Participants who took 1st place in the group and scored 1 more point than the maximum number of points in the largest group,
 
-   `4d)` in case of less than 128 Participants signing up for the Tournament, in the 1st round of the Knockout Phase, Participants will face each other in pairs, which will be determined based on *Radamantys*,
+   `4d)` in the case where less than 128 Participants sign up for the Tournament, in the 1st round of the Knockout Phase, Participants will face each other in pairs, which will be determined based on a table established according to *Radamantys*, where the upper part of this table will be seeded according to the order in this table, and the lower part will be randomly paired, so that each pair will consist of one Participant from the upper part and one Participant from the lower part,
 
    `5)` in the Upper Bracket, Matches will be played in a Bo3 system, in the Lower Bracket in a Bo1 system,
 
@@ -178,21 +178,27 @@
    
 3. When loading the Game, the additional time (10 minutes) offered by the Game is used EXCLUSIVELY for planning moves. It is forbidden to move heroes, cast spells, buy armies, buildings, etc.
 
-4. Participants are required to behave politely towards each other during the Game, before and after the Game on the Heroes III chat, on the broadcasts of the Games and on their chats, in private messages regarding the Tournament and on the Discord Server.
+4. Conversations between Participants during a Game should be limited to matters necessary for fulfilling the provisions of the Tournament Rules, unless both Participants agree to engage in a different conversation.
 
-5. Participants are prohibited from expressing discriminatory views, such as queerphobia, racism, sexism and xenophobia on the Heroes III chat, on the broadcasts of the Games and on their chats, in private messages regarding the Tournament and on the Discord Server.
+5. Participants are prohibited from excessively prolonging a Game and abusing the timer during battles.
 
-6. Participants should refrain from publicly accusing others of violating the Tournament Rules. Any such problem should be reported to the Committee for confirmation.
+6. Participants are required to behave politely towards each other during the Game, before and after the Game on the Heroes III chat, on the broadcasts of the Games and on their chats, in private messages regarding the Tournament and on the Discord Server.
 
-7. In Tournament, standard HotA Lobby online rules apply. The link to them can be found <a href="https://h3hota.com/en/rules" target="__blank">tutaj</a>. If a rule of the HotA regulations contradicts the Tournament Rules, the Tournament Rules take precedence.
+7. Participants are prohibited from expressing discriminatory views, such as queerphobia, racism, sexism and xenophobia on the Heroes III chat, on the broadcasts of the Games and on their chats, in private messages regarding the Tournament and on the Discord Server.
 
-8. Signing up for the Tournament, the Participant:
+8. Participants should refrain from publicly accusing others of violating the Tournament Rules. Any such problem should be reported to the Committee for confirmation.
+
+9. Participants are prohibited from acting to the detriment of the Tournament and the activities of the Committee.
+
+10. In Tournament, standard HotA Lobby online rules apply. The link to them can be found <a href="https://h3hota.com/en/rules" target="__blank">tutaj</a>. If a rule of the HotA regulations contradicts the Tournament Rules, the Tournament Rules take precedence.
+
+11. Signing up for the Tournament, the Participant:
 
    `1)` Accepts the Privacy Policy of the Tournament,
 
    `2)` Grants the Committee an irrevocable and non-exclusive right to retransmit, record and share selected Games for the purpose of providing commentary and archiving. The Committee may share this right with third parties.
 
-9. Starting from the 1/8 phase of the Upper and Lower Bracket, the Participant is obliged to provide information about the planned date of the Game on Discord on the `#schedule` channel:
+12. Starting from the 1/8 phase of the Upper and Lower Bracket, the Participant is obliged to provide information about the planned date of the Game on Discord on the `#schedule` channel:
 
    `1)` In the 1/8 phase of the Upper and Lower Bracket 24 hours before the start of the Game,
 
