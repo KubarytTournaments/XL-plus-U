@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 2 <br>Komitet Sędziowski
 
-<p align="right">14/06/2024</p>
+<p align="right">17/06/2024</p>
 
 <h1 align="center">Regulamin Turnieju XL+yoU 2</h1>
 
@@ -123,13 +123,13 @@
 
    `3)` Faza Pucharowa zostanie podzielona na Fazę Górnej Drabinki i Dolnej Drabinki, obie będą prowadzone w systemie pucharowym, oraz Finał Fazy Pucharowej, pomiędzy zwycięzcami obu drabinek,
 
-   `4)` w 1 rundzie Fazy Pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na podstawie miejsc zajętych w poprzedniej fazie, w drugiej kolejności liczby punktów zdobytych w poprzedniej fazie, a w trzeciej kolejności na podstawie Radamantysa, biorącego okres od 24 czerwca 2023 do końca fazy grupowej,
+   `4)` w 1 rundzie Fazy Pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na podstawie tabeli ustalonej na podstawie miejsc zajętych w poprzedniej fazie, w drugiej kolejności liczby punktów zdobytych w poprzedniej fazie, a w trzeciej kolejności na podstawie Radamantysa, biorącego okres od 24 czerwca 2023 do końca fazy grupowej, gdzie górna część takiej tabeli, czyli Uczestnicy zajmujący 1 miejsca w grupie, którzy przy parowaniu wg zasady najlepszy z najsłabszym, graliby z Uczestnikami zajmującymi 2 miejsca w grupie, zostanie rozstawienia wg kolejności w tej tabeli, środkowa część tj Uczestnicy zajmujący 1 miejsca w grupie, którzy przy parowaniu wg zasady najlepszy z najlepszym graliby z Uczestnikami zajmującymi 1 miejsca w grupie, zostanie rozstawiona w pary w sposób losowy wewnątrz tej środkowej części, a dolna część tabeli, czyli Uczestnicy, którzy zajęli 2 miejsce w grupie, zostaną rozstawieni w pary w sposób losowy, gdzie w każdej parze będzie jeden Uczestnik z górnej części i jeden Uczestnik z dolnej części,
 
    `4b)` dwóch Uczestników, którzy w Fazie Grupowej grali w tej samej grupie, nie może grać ze sobą w pierwszej rundzie Fazy Pucharowej,
 
    `4c)` Uczestnicy wymienieni w [ustępie `2b)` punktu 3 tego rozdziału](#point-2-3-2b), będą traktowani tak jak Uczestnicy, którzy zajęli 1 miejsce w grupie i zdobyli o 1 więcej punkt niż maksymalna liczba punktów w największej grupie,
 
-   `4d)` w przypadku, wktórym do Turnieju zapisze się mniej niż 128 Uczestników, w 1 rundzie Fazy Pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na podstawie *Radamantysa*,
+   `4d)` w przypadku, wktórym do Turnieju zapisze się mniej niż 128 Uczestników, w 1 rundzie Fazy Pucharowej Uczestnicy zmierzą się w parach, które zostaną ustalone na tabeli ustalonej na podstawie *Radamantysa*, gdzie górna połowa tej tabeli zostanie rozstawiona wg kolejności w tej tabeli, a dolna część zostanie rozstawiona w pary w sposób losowy, tak, że w każdej parze będzie jeden Uczestnik z górnej części i jeden Uczestnik z dolnej części,
 
    `5)` w Fazie Górnej Drabinki Mecze rozgrywane będą w systemie Bo3, w Fazie Dolnej Drabinki w systemie Bo1,
 
@@ -178,21 +178,27 @@
 
 3. Przy wczytywaniu Gry, dodatkowy czas (10 minut) oferowany przez grę służy WYŁĄCZNIE do planowania ruchów. Zabronione jest wtedy jakiekolwiek poruszanie bohaterów, rzucanie zaklęć, wykup armii, budynków etc.
 
-4. Uczestnicy mają obowiązek zachowywać się kulturalnie względem siebie w czasie Gry, przed nimi i po nich na czacie Heroes III, na transmisjach z Gier oraz na ich czatach, w prywatnych wiadomościach dotyczących Turnieju oraz na Serwerze Discord.
+4. Zabrania się Uczestnikom nadmiernego przedłużania Gry i nadużywania zegara w walce.
 
-5. Zabrania się Uczestnikom wyrażania dyskryminujących poglądów, takich jak queerfobia, rasizm, seksizm i ksenofobia na czacie Heroes III, na transmisjach z Gier oraz na ich czatach, w prywatnych wiadomościach dotyczących Turnieju oraz na Serwerze Discord.
+5. Rozmowy między Uczestnikami w trakcie trwania Gry i powinny ograniczać się jedynie do kwestii koniecznych do wypełniania postanowień Zasad Turnieju, chyba, że obaj Uczestnicy wyrażą zgodę na prowadzenie innej rozmowy.
 
-6. Uczestnicy powinni powstrzymać się od publicznych oskarżeń, co do naruszenia Zasad Turnieju, wobec innych. Każdy problem tego typu powinien być zgłoszony Komitetowi w celu potwierdzenia.
+6. Uczestnicy mają obowiązek zachowywać się kulturalnie względem siebie w czasie Gry, przed nimi i po nich na czacie Heroes III, na transmisjach z Gier oraz na ich czatach, w prywatnych wiadomościach dotyczących Turnieju oraz na Serwerze Discord.
 
-7. W Turnieju obowiązują standardowe reguły rozgrywek HotA Lobby online. Link do nich można znaleźć <a href="https://h3hota.com/en/rules" target="__blank">tutaj</a>. Jeśli zasada regulaminu HotA stoi w sprzeczności z Zasadami Turnieju, Zasady Turnieju mają pierwszeństwo.
+7. Zabrania się Uczestnikom wyrażania dyskryminujących poglądów, takich jak queerfobia, rasizm, seksizm i ksenofobia na czacie Heroes III, na transmisjach z Gier oraz na ich czatach, w prywatnych wiadomościach dotyczących Turnieju oraz na Serwerze Discord.
 
-8. Zapisując się do Turnieju Uczestnik:
+8. Zabrania się Uczestnikom działania na szkodę Turnieju i działalności Komitetu.
+
+9. Uczestnicy powinni powstrzymać się od publicznych oskarżeń, co do naruszenia Zasad Turnieju, wobec innych. Każdy problem tego typu powinien być zgłoszony Komitetowi w celu potwierdzenia.
+
+10. W Turnieju obowiązują standardowe reguły rozgrywek HotA Lobby online. Link do nich można znaleźć <a href="https://h3hota.com/en/rules" target="__blank">tutaj</a>. Jeśli zasada regulaminu HotA stoi w sprzeczności z Zasadami Turnieju, Zasady Turnieju mają pierwszeństwo.
+
+11. Zapisując się do Turnieju Uczestnik:
 
    `1)` Akcpetuje Politykę Prywatności Turnieju,
 
    `2)` Nadaje Komitetowi niezbywalne i niewyłączne prawo do retransmisji, nagrywania i udostępniania wybranych Gier w celu udostępniania komentarza i archiwizacji. Komitet może dzielić się tym prawem z osobami trzecimi.
 
-9. Począwszy od fazy 1/8 Fazy Górnej i Dolnej Drabinki wlącznie Uczestnik zobowiązany jest do zamieszczenia informacji o planowanej dacie Gry na Discordzie na kanale `#schedule`:
+12. Począwszy od fazy 1/8 Fazy Górnej i Dolnej Drabinki wlącznie Uczestnik zobowiązany jest do zamieszczenia informacji o planowanej dacie Gry na Discordzie na kanale `#schedule`:
 
    `1)` W fazie 1/8 Fazy Górnej i Dolnej Drabinki 24 godziny przed rozpoczęciem Gry,
 
@@ -203,16 +209,18 @@
 > [!IMPORTANT]
 > Komitet zachęca do zamieszczania informacji o planowanej dacie Gry na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
 
-10.  Począwszy od fazy 1/8 Fazy Górnej i Dolnej Drabinki włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Gier. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia linku do transmisji na kanale `#streams` na Serwerze Discord.
+13. Począwszy od fazy 1/8 Fazy Górnej i Dolnej Drabinki włącznie Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Gier. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia linku do transmisji na kanale `#streams` na Serwerze Discord.
 
-11.  Jeżeli Gra jest retransmitowana przez Komitet Uczestnik dodatkowo zobowiązany jest na czas trwania Gry:
+14. Jeżeli Gra jest retransmitowana przez Komitet Uczestnik dodatkowo zobowiązany jest na czas trwania Gry:
 
       `1)` Ustawić rozdzielczość Heroes III w zakresie od 1180x664 do 1365x768.
 
       `2)` w fazach finałów Fazy Górnej i Dolnej Drabinki oraz Finału Fazy Pucharowej ukryć wszystkie zewnętrzne nakładki np reklamy, banery, nakładki informujące o stanie Gry (tzw. *overlay*), widoczne na transmisji Uczestnika,
 
-12.  Zabronione jest korzystanie przez więcej niż jedną osobę z danego konta w Turnieju.
-  
+15. Zabronione jest korzystanie przez więcej niż jedną osobę z danego konta w Turnieju.
+
+
+
 ## 4. Rozgrywka
 
 1. Gry powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Heroes III. W przypadku gdy HotA Lobby nie jest dostępne, Grę można rozegrać za pośrednictwem Hamachi lub Game Rangera.
@@ -287,13 +295,15 @@
 
 1. Po rozegraniu Gry, przegrany wpisuje “gg” na czacie Heroes III (oraz w przypadku grania w trybie rankingowym potwierdza przyznanie się do porażki), jest to jednoznaczne z przyznaniem się do porażki oraz dowodem potwierdzającym raport z Gry. Decyzji o poddaniu Gry nie można odwołać.
 
-2. Po zakończeniu Gry Uczestnicy są zobowiązani do podania haseł, które chronią zapisy Gry.
+2. Komitet, na wniosek obu Uczestników, lub własną decyzją, może zakończyć Grę przez arbitralne wskazanie zwycięzcy na podstawie oceny sytuacji w Grze.
 
-3. Zwycięzca składa raport z Gry na Stronie Turnieju, jeżeli przegrany wyrazi taką chęć, może on złożyć raport za zwycięzcę.
+3. Po zakończeniu Gry Uczestnicy są zobowiązani do podania haseł, które chronią zapisy Gry.
 
-4. Jeżeli raport nie zostanie potwierdzony w terminie Meczu, ani nie zostanie zgłoszone oszustwo w raporcie, zostaje on uznany za potwierdzony.
+4. Zwycięzca składa raport z Gry na Stronie Turnieju, jeżeli przegrany wyrazi taką chęć, może on złożyć raport za zwycięzcę.
 
-5. Mecz kończy się w momencie potwierdzenia wszystkich raportów z jego Gry.
+5. Jeżeli raport nie zostanie potwierdzony w terminie Meczu, ani nie zostanie zgłoszone oszustwo w raporcie, zostaje on uznany za potwierdzony.
+
+6. Mecz kończy się w momencie potwierdzenia wszystkich raportów z jego Gry.
 
 ## 7. Kary
 

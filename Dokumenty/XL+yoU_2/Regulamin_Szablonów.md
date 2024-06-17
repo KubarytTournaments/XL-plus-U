@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 2 <br>Komitet Sędziowski
 
-<p align="right">14/06/2024</p>
+<p align="right">17/06/2024</p>
 
 <h1 align="center">Regulamin Szablonów</h1>
 
@@ -11,8 +11,8 @@
     - 6lm10f fixed,
     - 8xm12a 1.1,
     - Nostalgia 1.1,
-    - Sapphire XL.
-    - Spider 2.2a,
+    - Sapphire XL,
+    - Spider 2.2a.
 
 2. Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Dysku Google](). //TODO: dodać link do dysku google
 
@@ -25,8 +25,10 @@
       - 8xm12a,
     - dla Nostalgia 1.1:
       - Nostalgia,
+    - dla Sapphire XL:
+      - Sapphire XH,
     - dla Spider 2.2a:
-      - Spider,
+      - Spider.
 
 ## 2. Domyślne ustawienia szablonów w Grach
 
@@ -39,7 +41,7 @@
     | 6lm10f fixed       |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |
     | 8xm12 1.1          |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |
     | Nostalgia 1.1      |     XL+U     |        2(+6)        | Szybkie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         |
-    | Sapphire XL       |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         |
+    | Sapphire XL       |     XL+U (XH dla Sapphire XH)     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         |
     | Spider 2.2a     |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         |
 
 <br/>
