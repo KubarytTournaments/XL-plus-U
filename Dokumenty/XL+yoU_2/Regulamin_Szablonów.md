@@ -14,7 +14,7 @@
     - Sapphire XL,
     - Spider 2.2a.
 
-2. Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Dysku Google](). //TODO: dodać link do dysku google
+2. Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Dysku Google](https://drive.google.com/drive/folders/1wWTXVdHCuU9YI7Fo_ZugGh1abWo_wgMs?usp=sharing).
 
 3. Za zgodą obu Uczestników, Gra może zostać rozegrana na następującach wersjach szablonów:
 
