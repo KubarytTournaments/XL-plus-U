@@ -14,7 +14,7 @@
     - Sapphire XL,
     - Spider 2.2a.
 
-2. Link to download all the above-mentioned templates is available on [Google Drive](). //TODO: add link to google drive
+2. Link to download all the above-mentioned templates is available on [Google Drive](https://drive.google.com/drive/folders/1wWTXVdHCuU9YI7Fo_ZugGh1abWo_wgMs?usp=sharing).
 
 3. By mutual agreement of both Participants, the Game may be played on the following template versions:
 
