@@ -36,13 +36,29 @@
 
 2. Default settings of templates:
 
-    |   Template name   | Map size | Human players (+AI) | Road type | Monster strength | Difficulty |       Timer       | Simultaneous turns |
-    |:-----------------:|:--------:|:-------------------:|:---------:|:----------------:|:----------:|:-----------------:|:------------------:|
-    | 6lm10f fixed      |   XL+U   |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |
-    | 8xm12a 1.1        |   XL+U   |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |
-    | Nostalgia 1.1     |   XL+U   |        2(+6)        |  Fast   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |
-    | Sapphire XL  |   XL+U(XH for Sapphire XH)   |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |
-    | Spider 2.2a    |   XL+U   |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |
+  |   Template Name   | Map Size | Human Players (+AI) | Road Type | Monster Strength | Difficulty |       Timer       | Simultaneous Turns | Selection Method for Computer Players' Castles |
+  |:------------------:|:--------:|:-------------------:|:---------:|:----------------:|:----------:|:-----------------:|:------------------:|:--------------------------------------------:|
+  | 6lm10f fixed       |   XL+U   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |               Random                           |
+  | 8xm12 1.1          |   XL+U   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |              Random                           |
+  | Nostalgia 1.1      |   XL+U   |       2(+6)        |  Fast     |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Manual selection starting from the blue player |
+  | Sapphire XL       |   XL+U (XH for Sapphire XH)   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Bidding                           |
+  | Spider 2.2a     |   XL+U   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Random                           |
+
+3. The selection of computer players' castles through auction proceeds as follows:
+
+  `1)` The host randomly selects 6 unique towns, different from those chosen by the Participants. The towns chosen as 1st, 2nd, and 3rd form the "first AI pack," and those chosen as 4th, 5th, and 6th form the "second AI pack".\
+  `2)` Participants bid for the priority of choosing the AI pack.\
+  `3)` The winner of the bid for the AI pack first chooses which AI factions will be assigned to "their" computer players - those from the first or second pack. The assignment of computer players is based on color:
+    - The red player "owns":
+    - Brown
+    - Orange
+    - Light Blue
+    - The blue player "owns":
+    - Green
+    - Purple
+    - Pink\
+  `4)` Starting from the blue player, players place towns from their auctioned pack for their computer players.\
+  `5)` The selection of towns for computer players takes place after all other auctions are completed.
 
 <br/>
 <hr>
