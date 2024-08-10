@@ -244,6 +244,9 @@
 
    c) Participants of the Match eliminate templates in the BA system, where A is the winner of the coin flip, until one template remains, on which the third Game will be played.
    </ul>
+
+   `4)` Up to and including the 1/4 phase of the Upper Bracket, in the case of a Bo3 Match, with the consent of both Participants, the Match may be played on one template.
+
 4. Color and town selection:
 
    `1)` Drawing towns is done by the Random Town vs Random Town option, in case of drawing two identical towns, the drawing must be repeated,
