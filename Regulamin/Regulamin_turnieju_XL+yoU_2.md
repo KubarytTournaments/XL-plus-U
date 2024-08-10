@@ -247,6 +247,8 @@
    c) Uczestnicy Meczu eliminują szablony w systemie BA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu, na którym rozegrana zostanie trzecia Gra.
    </ul>
 
+   `4)` Do fazy 1/4 Górnej Drabinki włącznie, w przypadku Meczu Bo3, za zgodą obu Uczestników Mecz może zostac rozegrany na jednym szablonie.
+
 4. Wybór koloru oraz miasta:
 
    `1)` Wylosowanie miast następuje przez opcję Random Town vs Random Town, w przypadku wylosowania dwóch identycznych miast, losowanie należy powtórzyć,
