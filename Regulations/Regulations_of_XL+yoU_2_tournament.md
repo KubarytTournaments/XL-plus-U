@@ -259,13 +259,7 @@
 
    `5)` The winner of the color bid chooses one of the colors: red or blue,
 
-   `6)` The starting hero is chosen by the red player first.
-
-## 5. Restarts
-
-1. Each Participant has two subjective restarts in the first day of the Game (2 x 111) or one restart in the second day (1 x 112). To use a subjective restart, the Participant must write `111` or `112` on the Heroes III chat, depending on the day, in which the Participant wants to use it.
-
-2. First decision on the subjective restart is made by the red player, then the blue player. The blue player has the right to make a decision on the subjective restart in 112 and 113, counted as a subjective restart from the previous one, up to 5 seconds from accepting the prompt to start the turn.
+   `6)` The starting her2. The Committee reserves the right to disqualify a Participant due to a serious offense committed in another Heroes III tournament. subjective restart is made by the red player, then the blue player. The blue player has the right to make a decision on the subjective restart in 112 and 113, counted as a subjective restart from the previous one, up to 5 seconds from accepting the prompt to start the turn.
 
 3. After using subjective restarts, with the consent of both Participants, or in a situation where they cannot come to an agreement, with the consent of the Committee, they can also use technical restarts. Technical restarts can be used if:
 
@@ -322,9 +316,11 @@
 
    `4)` Ban - received for the biggest offenses, is equivalent to disqualification and a ban on participating in the next editions of the Tournament for a specified period of time, or not.
 
-2. Committee in cases where irregularities related to playing a Game occurred, can order repeating it.
+2. The Committee reserves the right to disqualify a Participant due to a serious offense committed in another Heroes III tournament.
 
-3. If one of the Participants fails to show up on the scheduled date of the Game, the following procedure should be used (whenever the procedure includes phrases in the second person, the Committee mean the Participant playing in a given Game who is waiting for his late opponent):
+3. Committee in cases where irregularities related to playing a Game occurred, can order repeating it.
+
+4. If one of the Participants fails to show up on the scheduled date of the Game, the following procedure should be used (whenever the procedure includes phrases in the second person, the Committee mean the Participant playing in a given Game who is waiting for his late opponent):
 
    `1)` After 5 minutes from the scheduled time, inform the Committee that you are starting this procedure, then message your opponent on private message with EXACTLY the following text, without quotes: “I have attempted to play a Game with you, and now I am waiting for you to show up. According to the rules, you have 15 minutes from now to show up and start playing the game, or otherwise you will be penalized with a game forfeit. I have informed the Committee that this procedure has begun."
 
@@ -342,7 +338,7 @@
 
    `8)` For the procedure listed above, you have to provide proof in the form of a screenshot that you have messaged your opponent and they have not responded on time. Additionally, you should provide the proof of the scheduled date and time for the Game. If this procedure was used for an ambiguously scheduled Game, the Committee may decide to not penalize the missing player depending on the full context. The Organizers may also decide to reduce the severity of the penalty in case of force majeure.
 
-4. Participtant can appeal against the Committee decision up to the day of the end of the phase following the phase in which they received the penalty.
+5. Participtant can appeal against the Committee decision up to the day of the end of the phase following the phase in which they received the penalty.
 
 <br/>
 <hr>
