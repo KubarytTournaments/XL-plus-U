@@ -325,9 +325,11 @@
 
    `4)` Ban - otrzymywane za największe przewinienia, jest równoznaczny z dyskwalifikacją i zakazem udziału w następnych edycjach Turnieju na czas określony, lub nie.
 
-2. W sytuacjach, w których doszło do nieprawidłowości w rozegraniu Gry, Komitet może nakazać jej powtórzenie.
+2. Komitet zastrzega sobie prawo do dyskwalifikacji Uczestnika, z powodu popełnienia przez niego poważnego przewinienia w innym turnieju w Heroes III.
 
-3. W przypadku kiedy jeden z Uczestników nie stawi się na ustalony termin Gry, należy zastosować następującą procedurę (ilekroć w procedurze występują zwroty w drugiej osobie, Komitet ma na myśli tego z Uczestników grających w danym Meczu, który czeka na swojego, spóźniającego się, przeciwnika):
+3. W sytuacjach, w których doszło do nieprawidłowości w rozegraniu Gry, Komitet może nakazać jej powtórzenie.
+
+4. W przypadku kiedy jeden z Uczestników nie stawi się na ustalony termin Gry, należy zastosować następującą procedurę (ilekroć w procedurze występują zwroty w drugiej osobie, Komitet ma na myśli tego z Uczestników grających w danym Meczu, który czeka na swojego, spóźniającego się, przeciwnika):
 
    `1)` Po 5 minutach od ustalonego terminu, poinformuj Komitet o rozpoczęciu tej procedury, a następnie wyślij do przeciwnika wiadomość o DOKŁADNIE następującej treści, pomijając cudzysłowy: “I have attempted to play a match with you, and now I am waiting for you to show up. According to the rules, you have 15 minutes from now to show up and start playing the game, or otherwise you will be penalized with a game forfeit. I have informed the Committee that this procedure has begun.”
 
@@ -351,7 +353,7 @@
 
    `8)` Stosując powyższą procedurę, musisz przygotować dowód w postaci zrzutu ekranu pokazujący że twój przeciwnik nie pojawił się na czas. Dodatkowo, musisz przygotować dowód w tej samej formie pokazujący ustaloną datę i godzinę rozpoczęcia Partii. W przypadku jeżeli termin został ustalony w sposób niejednoznaczny, Komitet może zdecydować się na nie wyciągnięcie konsekwencji wobec brakującego Uczestnika, w zależności od pełnego kontekstu. Organizatorzy mogą też zadecydować o redukcji kary w przypadku zaistniałej siły wyższej.
 
-4. Uczestnicy mogą odwołać się od decyzji Komitetu najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
+5. Uczestnicy mogą odwołać się od decyzji Komitetu najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
 
 <br/>
 <hr>
