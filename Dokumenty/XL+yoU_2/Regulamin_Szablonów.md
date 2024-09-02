@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 2 <br>Komitet Sędziowski
 
-<p align="right">02/07/2024</p>
+<p align="right">02/09/2024</p>
 
 <h1 align="center">Regulamin Szablonów</h1>
 
@@ -12,7 +12,7 @@
     - 8xm12a 1.1,
     - Nostalgia 1.1,
     - Sapphire XL,
-    - Spider 2.2a.
+    - Spider 2.2b.
 
 2. Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Dysku Google](https://drive.google.com/drive/folders/1wWTXVdHCuU9YI7Fo_ZugGh1abWo_wgMs?usp=sharing).
 
@@ -27,7 +27,7 @@
       - Nostalgia,
     - dla Sapphire XL:
       - Sapphire XH,
-    - dla Spider 2.2a:
+    - dla Spider 2.2b:
       - Spider.
 
 ## 2. Domyślne ustawienia szablonów w Grach
@@ -42,7 +42,7 @@
     | 8xm12 1.1          |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |         Losowo                           |
     | Nostalgia 1.1      |     XL+U     |        2(+6)        | Szybkie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Wybór ręczny zaczynając od gracza niebieskiego |
     | Sapphire XL       |     XL+U (XH dla Sapphire XH)     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Licytacja                           |
-    | Spider 2.2a     |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Losowo                           |
+    | Spider 2.2b     |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Losowo                           |
 
 3. Przez wybór zamków graczy komputerowych przez licytację przebiega w następujący sposób:
 
