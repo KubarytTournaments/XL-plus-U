@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 2 <br>Referee Committee
 
-<p align="right">17/06/2024</p>
+<p align="right">02/09/2024</p>
 
 <h1 align="center">Template Regulations</h1>
 
@@ -12,7 +12,7 @@
     - 8xm12a 1.1,
     - Nostalgia 1.1,
     - Sapphire XL,
-    - Spider 2.2a.
+    - Spider 2.2b.
 
 2. Link to download all the above-mentioned templates is available on [Google Drive](https://drive.google.com/drive/folders/1wWTXVdHCuU9YI7Fo_ZugGh1abWo_wgMs?usp=sharing).
 
@@ -27,7 +27,7 @@
       - Nostalgia,
     - for Sapphire XL:
       - Sapphire XH,
-    - for Spider 2.2a:
+    - for Spider 2.2b:
       - Spider.
 
 ## 2. Default settings of templates in Games
@@ -42,7 +42,7 @@
   | 8xm12 1.1          |   XL+U   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |              Random                           |
   | Nostalgia 1.1      |   XL+U   |       2(+6)        |  Fast     |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Manual selection starting from the blue player |
   | Sapphire XL       |   XL+U (XH for Sapphire XH)   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Bidding                           |
-  | Spider 2.2a     |   XL+U   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Random                           |
+  | Spider 2.2b     |   XL+U   |       2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Random                           |
 
 3. The selection of computer players' castles through auction proceeds as follows:
 
