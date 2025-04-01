@@ -1,0 +1,10 @@
+- [ ] ustalenie puli szablonów
+- [ ] napisanie głównego regulaminu:
+  - [ ] określić format turnieju
+  - [ ] ujednolicic zdefininiowane słowa
+  - [ ] ustalić zakres radamantysa
+- [ ] napisanie dokumentow i aktuaolizacja polityki prywatności
+- [ ] merge z polish, english, stuff, radamantys i templates, ujednolicenie branchow jak w XXV, podzial branchow na 2023, 2024, 2025, dla zwiększenia przejrzystości
+- [ ] statystyki z 2024
+- [ ] napisac przewodnik po turnieju (README.md?)
+- [ ] uzupełnienie dokumentacji z 2024
