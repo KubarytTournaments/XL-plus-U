@@ -1,8 +1,8 @@
 - [ ] ustalenie puli szablonów
-- [ ] napisanie głównego regulaminu:
-  - [ ] określić format turnieju
-  - [ ] ujednolicic zdefininiowane słowa
-  - [ ] ustalić zakres radamantysa
+- [x] napisanie głównego regulaminu:
+  - [x] określić format turnieju
+  - [x] ujednolicic zdefininiowane słowa
+  - [x] ustalić zakres radamantysa - 18 miesiecy
 - [ ] napisanie dokumentow i aktuaolizacja polityki prywatności
 - [ ] merge z polish, english, stuff, radamantys i templates, ujednolicenie branchow jak w XXV, podzial branchow na 2023, 2024, 2025, dla zwiększenia przejrzystości
 - [ ] statystyki z 2024
