@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 3 <br>Komitet Sędziowski
 
-<p align="right">1/04/2025</p>
+<p align="right">08/08/2025</p>
 
 <h1 align="center">Regulamin Turnieju XL+yoU 3</h1>
 
@@ -34,17 +34,19 @@
    - **Meczu**, należy przez to rozumieć wszystkie rozgrywki w ramach Turnieju, między dwoma danymi Uczestnikami, w danej fazie w Turnieju,
    - **Grze**, należy przez to rozumieć pojedynczą rozgrywkę w Meczu,
    - **Stronie Turnieju**, należy przez to rozumieć stronę na witrynie h3.gg [link](htpps://www.h3.gg/).
-   - ***Radamantysie***, należy przez to rozumieć ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg oraz Liga Heroes w okresie od tbd do tbd. Używa on wag dla szablonów, które można uzyskać od Komitet na wniosek.
+   - ***Radamantysie***, należy przez to rozumieć ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg oraz Liga Heroes w okresie od 10 sierpnia 2024 do 10 sierpnia 2025. Używa on wag dla szablonów, które można uzyskać od Komitet na wniosek.
 
-8. Komitet zastrzega sobie prawo do zmiany Zasad Turnieju, w każdej chwili, w drodze Orzeczenia Specjalnego.
+8. Komitet zastrzega sobie prawo do zmiany Zasad Turnieju, w przypadkach, w których jest to niezbędne do prawidłowego przebiegu Turnieju, w drodze Orzeczenia Specjalnego. Zmiany Zasad Turnieju zyskują moc z chwilą ich opublikowania, za wyjątkiem zmian Polityki Prywatności, które wchodzą w życie po upłynięciu 14 dni od opublikowania decyzji.
 
 9.  Polskojęzyczna wersja Zasad Turnieju jest wersją podstawową. W przypadku sprzeczności wersji anglojęzycznej z polskojęzyczną, należy postępować według wersji polskojęzycznej.
 
-10. Komitet może wydawać Orzeczenia, sposób wydawania Orzeczeń i ich kształt reguluje Regulamin Orzeczeń i Orzeczeń Specjalnych.
+10. Komitet może wydawać Orzeczenia, będące oficjalnymi decyzjami w sprawach Turnieju, sposób wydawania Orzeczeń i ich kształt reguluje Regulamin Orzeczeń i Orzeczeń Specjalnych.
 
-11. W sytuacjach nieujętych Zasadami Turnieju decyzja Komitetu jest wiążąca. Takie decyzje zawierane będą w Orzeczeniach.
+11. Uczestnikom przysługuje prawo do odwołania się od każdej decyzji Komitetu, nie później niż 14 dni od opublikowania Orzeczenia, w którym została ujęta. Sposób odwołań określa [Regulamin Komitetu Sędzieowskiego](../Dokumenty/XL+yoU_3/Regulamin_Komitetu_Sędziowskiego.md).
 
-12. Komitet zastrzega sobie prawo do niedopuszczenia wybranej osoby do pełnienia funkcji komentatora lub hosta transmisji z Gry rozgrywanej w ramach Turnieju.
+12. W sytuacjach nieujętych Zasadami Turnieju decyzja Komitetu jest wiążąca. Takie decyzje zawierane będą w Orzeczeniach.
+
+13. Komitet zastrzega sobie prawo do niedopuszczenia wybranej osoby do pełnienia funkcji komentatora lub hosta transmisji z Gry rozgrywanej w ramach Turnieju.
 
 ## 2. Format Turnieju
 
@@ -56,7 +58,7 @@
 
 2. Faza Rejestracji:
 
-   `1)` Faza Rejestracji potrwa od dnia 30 kwietnia 2025 do dnia 14 maja 2025, nie będą odbywać się w niej żadne rozgrywki,
+   `1)` Faza Rejestracji potrwa od dnia 10 sierpnia 2025 do dnia 24 sierpnia 2025, nie będą odbywać się w niej żadne rozgrywki,
 
    `2)` warunkiem uczestnictwa w Fazie Rejestracji jest przeczytanie i zaakceptowanie Zasad Turnieju, dokonanie zapisu przez Stronę Turnieju oraz dołączenie na Serwer Discord.
 
@@ -79,7 +81,7 @@
 
 3. Faza pucharowa:
 
-   `1)` Faza Pucharowa rozpocznie się 15 maja 2025 i potrwa $2 * log_2(n) + 5$ tygodni, gdzie `n` to liczba uczestników zaokrąglona w góre do najbliższej potęgi liczby 2,
+   `1)` Faza Pucharowa rozpocznie się 10 sierpnia 2025 i potrwa $2 * log_2(n) + 5$ tygodni, gdzie `n` to liczba uczestników zaokrąglona w góre do najbliższej potęgi liczby 2,
 
    `2)` warunkiem dołączenia do Fazy Pucharowej jest uczestnictwo w Fazie Rejestracji, brak orzeczenia przez Komitet o niedopuszczeniu do Turnieju oraz respektowanie przepisów Regulaminu,
 
@@ -97,9 +99,7 @@
 
    `9)` Finał Fazy Pucharowej zostanie rozegrany w systemie Bo5, gdzie zwycięzca Fazy Górnej Drabinki zaczyna z przewagą 1 punkta, czas na rozegranie Finału Fazy Pucharowej będzie wynosił 3 tygodnie.
 
-4. Za zgodą obu Uczestników Mecz Bo1 może zostać rozegrany w systemie Bo3, a Mecz Bo3 w systemie Bo5.
-
-5. W przypadku problemów z terminowym rozegraniem Meczu:
+4. W przypadku problemów z terminowym rozegraniem Meczu:
 
    `1)` na wniosek Uczestnika Meczu, Komitet może przedłużyć termin na rozegranie Meczu o jeden dzień,
 
@@ -107,7 +107,9 @@
 
    `3)` na wniosek obu Uczestników Meczu, lub decyzją Komitetu, system rozgrywek może zostać zmieniony w danym Meczu na Bo1, nie dotyczy to Finału Fazy Pucharowej.
 
-6. W przypadku problemów ze znalezieniem wspólnego terminu Gry, Komitet, na wniosek jednego z Uczestników Meczu lub własną decyzją, może wyznaczyć termin sędziowski dla danej Gry.
+5. W przypadku problemów ze znalezieniem wspólnego terminu Gry, Komitet, na wniosek jednego z Uczestników Meczu lub własną decyzją, może wyznaczyć termin sędziowski dla danej Gry.
+
+6. W przypadku wystąpienia wielu problemów z terminowym rozegraniem Meczu lub zaistnienia innej okoliczności, która w opinii Komitetu wymaga podjęcia takiej decyzji, termin każdej z faz może zostać przedłużony.
 
 ## 3. Fair play, wymagane zgody i wymagania dotyczące prowadzenia Gry
 
@@ -306,8 +308,6 @@
    `7)` Jeżeli chcesz, możesz opóźnić wykonanie tej procedury maksymalnie o godzinę - ale nie masz takiego obowiązku.
 
    `8)` Stosując powyższą procedurę, musisz przygotować dowód w postaci zrzutu ekranu pokazujący że twój przeciwnik nie pojawił się na czas. Dodatkowo, musisz przygotować dowód w tej samej formie pokazujący ustaloną datę i godzinę rozpoczęcia Gry. W przypadku jeżeli termin został ustalony w sposób niejednoznaczny, Komitet może zdecydować się na nie wyciągnięcie konsekwencji wobec brakującego Uczestnika, w zależności od pełnego kontekstu. Organizatorzy mogą też zadecydować o redukcji kary w przypadku zaistniałej siły wyższej.
-
-5. Uczestnicy mogą odwołać się od decyzji Komitetu najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
 
 <br/>
 <hr>
