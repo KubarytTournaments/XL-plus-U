@@ -1,12 +1,12 @@
-# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 3 <br>Komitet Sędziowski
+# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU <3 <br>Komitet Sędziowski
 
-<p align="right">09/08/2025</p>
+<p align="right">15/08/2025</p>
 
-<h1 align="center">Regulamin Turnieju XL+yoU 3</h1>
+<h1 align="center">Regulamin Turnieju XL+yoU <3</h1>
 
 ## 1. Wstęp
 
-1. *XL+yoU 3* (dalej zwany Turniejem) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Heroes III). Celem Turnieju jest zapewnienie pola do rywalizacji graczom szablonów XL+U w Heroes III. XL+yoU 3 jest kontynuacją Turniejów XL+yoU i XL+yoU 2, który odbyły się w latach 2023 i 2024.
+1. *XL+yoU <3* (dalej zwany Turniejem) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Heroes III). Celem Turnieju jest zapewnienie pola do rywalizacji graczom szablonów XL+U w Heroes III. XL+yoU <3 jest kontynuacją Turniejów XL+yoU i XL+yoU 2, który odbyły się w latach 2023 i 2024.
 
 2. Turniej organizowany jest bez żadnego zysku dla Komitetu. Wszelkie prawa do marki, logo oraz znaków towarowych Heroes III posiada Ubisoft Entertainment SA.
 
@@ -81,7 +81,7 @@
 
 3. Faza pucharowa:
 
-   `1)` Faza Pucharowa rozpocznie się 10 sierpnia 2025 i potrwa $2 * log_2(n) + 5$ tygodni, gdzie `n` to liczba uczestników zaokrąglona w góre do najbliższej potęgi liczby 2,
+   `1)` Faza Pucharowa rozpocznie się 24 sierpnia 2025 i potrwa $2 * log_2(n) + 5$ tygodni, gdzie `n` to liczba uczestników zaokrąglona w góre do najbliższej potęgi liczby 2,
 
    `2)` warunkiem dołączenia do Fazy Pucharowej jest uczestnictwo w Fazie Rejestracji, brak orzeczenia przez Komitet o niedopuszczeniu do Turnieju oraz respektowanie przepisów Regulaminu,
 

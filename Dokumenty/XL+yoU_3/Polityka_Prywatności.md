@@ -1,4 +1,4 @@
-# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 3 <br>Komitet Sędziowski
+# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU <3 <br>Komitet Sędziowski
 
 <p align="right">09/08/2025</p>
 
@@ -6,7 +6,7 @@
 
 ## 1. Wstęp
 
-To jest nasza Polityka Prywatności, która zawiera informacje o tym jakie dane zbieramy i przechowujemy, a także w jaki sposób je wykorzystujemy. Za każdym razem kiedy zwracamy się w drugiej osobie, mamy na myśli wszystkich Uczestników turnieju XL+yoU 3. Za każdym razem kiedy zwracamy się w pierwszej osobie, mamy na myśli Komitet.
+To jest nasza Polityka Prywatności, która zawiera informacje o tym jakie dane zbieramy i przechowujemy, a także w jaki sposób je wykorzystujemy. Za każdym razem kiedy zwracamy się w drugiej osobie, mamy na myśli wszystkich Uczestników turnieju XL+yoU <3. Za każdym razem kiedy zwracamy się w pierwszej osobie, mamy na myśli Komitet.
 
 Od czasu do czasu możemy zaktualizować Politykę Prywatności. Zmiany będą miały efekt tuż po wprowadzeniu. Jeżeli nie zgadzasz się z niniejszą Polityką Prywatności, nie uczestnicz w Turnieju.
 
