@@ -1,4 +1,4 @@
-# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 3 <br>Referee Committee
+# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU <3 <br>Referee Committee
 
 <p align="right">09/08/2025</p>
 
@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-This is our Privacy Policy, which contains the information about what data we collect, record, and how we use it. The terms “you” and “your” refer to all current or past participants of the XL+yoU 3 Tournament. The terms “we”, “us”, “our” refers to the Referees' Committee.
+This is our Privacy Policy, which contains the information about what data we collect, record, and how we use it. The terms “you” and “your” refer to all current or past participants of the XL+yoU <3 Tournament. The terms “we”, “us”, “our” refers to the Referees' Committee.
 We may update this Privacy Policy from time to time. Changes to the Privacy Policy will be effective immediately. If you do not agree to this Privacy Policy, please do not participate in the Tournament.
 The privacy policy may be translated to other languages - but the binding text is in the Polish language.
 

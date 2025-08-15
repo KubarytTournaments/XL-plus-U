@@ -1,4 +1,4 @@
-# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 3 <br>Referee Committee
+# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU <3 <br>Referee Committee
 
 <p align="right">09/08/2025</p>
 
@@ -12,7 +12,7 @@
     - 8xm12a - built-in,
     - Nostalgia - built-in,
     - Sapphire XH - [link to download](https://h3szablony.heroes.net.pl/templates/10),
-    - Spider 2.3a - [link to download](https://h3szablony.heroes.net.pl/templates/9).
+    - Spider 2.3b - [link to download](https://h3szablony.heroes.net.pl/templates/9).
 
 2. By mutual agreement of both Participants, the Game may be played on the following template versions:
 
@@ -24,7 +24,7 @@
         - Nostalgia 1.1
     - for Sapphire XH:
         - Sapphire XL,
-    - for Spider 2.3a:
+    - for Spider 2.3b:
         - Spider.
 
 ## 2. Default settings of templates in Games
@@ -39,9 +39,9 @@
 |    8xm12a     |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |                     Random                     |
 |   Nostalgia   |           XL+U            |        2(+6)        |   Fast    |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Manual selection starting from the blue player |
 |  Sapphire XH  | XH (XL+U for Sapphire XL) |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |                    Bidding                     |
-|  Spider 2.3a  |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |                     Random                     |
+|  Spider 2.3b  |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |                     Random                     |
 
-3. The selection of computer players' towns through bidding proceeds as follows:
+3. The selection of computer players' towns through bidding, should be carried out after players' town bidding and proceeds as follows:
 
 `1)` The host randomly selects 6 unique towns, different from those chosen by the Participants. The towns chosen as 1st, 2nd, and 3rd form the "first AI pack," and those chosen as 4th, 5th, and 6th form the "second AI pack".\
 `2)` Participants bid for the priority of choosing the AI pack.\

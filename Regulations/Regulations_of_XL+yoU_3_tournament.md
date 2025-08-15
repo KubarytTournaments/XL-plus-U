@@ -1,12 +1,12 @@
-# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU 3 <br>Referee Committee
+# <img src="https://github.com/KubarytTournaments/XL-plus-U/blob/stuff/xl+u_logo.png?raw=true" alt="logoxl+you" style="width: 30%; height: auto;"> <br>XL+yoU <3 <br>Referee Committee
 
 <p align="right">09/08/2025</p>
 
-<h1 align="center">Regulations of XL+yoU 3 tournament</h1>
+<h1 align="center">Regulations of XL+yoU <3 tournament</h1>
 
 ## 1. Introduction
 
-1. *XL+yoU 3* (hereinafter reffered to as Tournament) is a tournament played in the game Heroes of Might and Magic III with Horn of The Abyss addon (hereinafter reffered to as Heroes III). The purpose of the Tournament is to provide a field for competition for XL+U template players in Heroes III. XL+yoU 3 is a continuation of XL+yoU and XL+yoU 2 tournaments, which took place in 2023 and 2024.
+1. *XL+yoU <3* (hereinafter reffered to as Tournament) is a tournament played in the game Heroes of Might and Magic III with Horn of The Abyss addon (hereinafter reffered to as Heroes III). The purpose of the Tournament is to provide a field for competition for XL+U template players in Heroes III. XL+yoU <3 is a continuation of XL+yoU and XL+yoU 2 tournaments, which took place in 2023 and 2024.
 
 2. Tournament is organized by the Referee Committee (hereinafter reffered to as Committee). The Committee does not make any profit from the organization of the Tournament. All rights to the brand, logo and trademarks of Heroes III are owned by Ubisoft Entertainment SA.
 
@@ -81,7 +81,7 @@
 
 3. Knockout Phase
 
-   `1)` Knockout Phase will start on 24 September 2025 and will last $2 * log_2(n) + 5$ weeks, where `n` is the number of participants rounded up to the nearest power of 2,
+   `1)` Knockout Phase will start on 24 August 2025 and will last $2 * log_2(n) + 5$ weeks, where `n` is the number of participants rounded up to the nearest power of 2,
 
    `2)` The condition for joining the Knockout Phase is participation in the Registration Phase, no decision by the Committee excluding from the Tournament and compliance with the Tournament Rules,
 
