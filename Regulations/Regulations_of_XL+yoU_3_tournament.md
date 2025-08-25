@@ -77,7 +77,9 @@
 
    `2c)` The Committee should inform a given person about their exclusion from the Tournament in a private message no later than on the last day of the Registration Phase and include this information in a Ruling,
 
-   `3)` Participation in the Tournament with more than one account is prohibited.
+   `3)` Participation in the Tournament with more than one account is prohibited,
+
+   `4)` The Committee may allow chosen person to the Tournament after Registration Phase end, not later than on last day of 1st phase of the Knockout Phase.
 
 3. Knockout Phase
 
