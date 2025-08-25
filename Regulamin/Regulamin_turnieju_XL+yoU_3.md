@@ -77,7 +77,9 @@
 
    `2c)` o niedopuszczeniu do Turnieju Komitet powinien poinformować daną osobę, w wiadomości prywatnej, najpóźniej w dniu zakończenia Fazy Rejestracji i zawrzeć informację o tym w Orzeczeniu,
 
-   `3)` zabronione jest uczestnictwo w Turnieju z więcej niż jednego konta.
+   `3)` zabronione jest uczestnictwo w Turnieju z więcej niż jednego konta,
+
+   `4)` Komitet ma prawo do dopuszczenia wybranej osoby do Turnieju po zakończeniu Fazy Rejestracji, nie później niż w dniu zakończzenia 1 fazy Fazy Pucharowej.
 
 3. Faza pucharowa:
 
