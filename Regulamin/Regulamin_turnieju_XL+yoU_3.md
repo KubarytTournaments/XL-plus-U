@@ -191,7 +191,7 @@
 
 3. Wybór szablonów:
 
-   `1)` szablony obowiązujące w turnieju można znaleźć w [Regulaminie Szablonów](../Dokumenty/XL+yoU_2/Regulamin_Szablonów.md),
+   `1)` szablony obowiązujące w turnieju można znaleźć w [Regulaminie Szablonów](../Dokumenty/XL+yoU_3/Regulamin_Szablonów.md),
 
    `2)` w przypadku Meczu Bo1, Uczestnicy eliminują szablony w systemie ABBA, gdzie A to zwycięzca rzutu monetą, aż do pozostania jednego szablonu,
 

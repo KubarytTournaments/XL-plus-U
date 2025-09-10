@@ -11,7 +11,7 @@
     - 6lm10a - wbudowany,
     - 8xm12a - wbudowany,
     - Nostalgia - wbudowany,
-    - Sapphire XH - [link do pobrania](https://h3szablony.heroes.net.pl/templates/10),
+    - Sapphire 1.07c XH - [link do pobrania](https://h3szablony.heroes.net.pl/templates/10),
     - Spider 2.3b - [link do pobrania](https://h3szablony.heroes.net.pl/templates/9).
 
 2. Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Dysku Google](https://drive.google.com/drive/folders/1KnC6a-POSC7BFk4acS3xmNKrNyeKt0lX?usp=sharing).
@@ -24,8 +24,8 @@
       - 8xm12a 1.1
     - dla Nostalgia:
       - Nostalgia 1.1
-    - dla Sapphire XH:
-      - Sapphire XL,
+    - dla Sapphire 1.07c XH:
+      - Sapphire 1.07c XL,
     - dla Spider 2.3b:
       - Spider.
 
@@ -35,13 +35,13 @@
 
 2. Domyślne ustawienia szablonów:
 
-    | Nazwa szablonu | Rozmiar mapy | Gracze ludzcy (+AI) | Typ dróg | Siła potworów | Poziom gry |       Zegar       | Tury symultaniczne | Sposób wyboru zamków graczy komputerowych |
-    |:--------------:|:------------:|:-------------------:|:--------:|:-------------:|:----------:|:-----------------:|:------------------:|:-----------------------------------------:|
-    |     6lm10a     |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |          Losowo                           |
-    |     8xm12a     |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |         Losowo                           |
-    |   Nostalgia    |     XL+U     |        2(+6)        | Szybkie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Wybór ręczny zaczynając od gracza niebieskiego |
-    |  Sapphire XH   |     XH (XL+U dla Sapphire XL+U)     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Licytacja                           |
-    |  Spider 2.3b   |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Losowo                           |
+    |   Nazwa szablonu  | Rozmiar mapy | Gracze ludzcy (+AI) | Typ dróg | Siła potworów | Poziom gry |       Zegar       | Tury symultaniczne | Sposób wyboru zamków graczy komputerowych |
+    |:-----------------:|:------------:|:-------------------:|:--------:|:-------------:|:----------:|:-----------------:|:------------------:|:-----------------------------------------:|
+    |       6lm10a      |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |          Losowo                           |
+    |       8xm12a      |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:00+01:15 |        121         |         Losowo                           |
+    |     Nostalgia     |     XL+U     |        2(+6)        | Szybkie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Wybór ręczny zaczynając od gracza niebieskiego |
+    | Sapphire 1.07c XH |     XH (XL+U dla Sapphire XL+U)     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Licytacja                           |
+    |    Spider 2.3b    |     XL+U     |        2(+6)        | Średnie  |     Silne     |    160%    | 18:00+07:30+01:15 |        121         | Losowo                           |
 
 3. Przez wybór zamków graczy komputerowych przez licytację następuje po licytacji o miasto i przebiega w następujący sposób:
 
