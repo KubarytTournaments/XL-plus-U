@@ -11,7 +11,7 @@
     - 6lm10a - built-in,
     - 8xm12a - built-in,
     - Nostalgia - built-in,
-    - Sapphire XH - [link to download](https://h3szablony.heroes.net.pl/templates/10),
+    - Sapphire 1.07c XH - [link to download](https://h3szablony.heroes.net.pl/templates/10),
     - Spider 2.3b - [link to download](https://h3szablony.heroes.net.pl/templates/9).
 
 2. By mutual agreement of both Participants, the Game may be played on the following template versions:
@@ -22,8 +22,8 @@
         - 8xm12a 1.1
     - for Nostalgia:
         - Nostalgia 1.1
-    - for Sapphire XH:
-        - Sapphire XL,
+    - for Sapphire 1.07c XH:
+        - Sapphire 1.07c XL,
     - for Spider 2.3b:
         - Spider.
 
@@ -33,13 +33,13 @@
 
 2. Default settings of templates:
 
-| Template Name |         Map Size          | Human Players (+AI) | Road Type | Monster Strength | Difficulty |       Timer       | Simultaneous Turns | Selection Method for Computer Players' Castles |
-  |:-------------:|:-------------------------:|:-------------------:|:---------:|:----------------:|:----------:|:-----------------:|:------------------:|:----------------------------------------------:|
-|    6lm10a     |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |                     Random                     |
-|    8xm12a     |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |                     Random                     |
-|   Nostalgia   |           XL+U            |        2(+6)        |   Fast    |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Manual selection starting from the blue player |
-|  Sapphire XH  | XH (XL+U for Sapphire XL) |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |                    Bidding                     |
-|  Spider 2.3b  |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |                     Random                     |
+|   Template Name   |         Map Size          | Human Players (+AI) | Road Type | Monster Strength | Difficulty |       Timer       | Simultaneous Turns | Selection Method for Computer Players' Castles |
+|:-----------------:|:-------------------------:|:-------------------:|:---------:|:----------------:|:----------:|:-----------------:|:------------------:|:----------------------------------------------:|
+|      6lm10a       |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |                     Random                     |
+|      8xm12a       |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:00+01:15 |        121         |                     Random                     |
+|     Nostalgia     |           XL+U            |        2(+6)        |   Fast    |      Strong      |    160%    | 18:00+07:30+01:15 |        121         | Manual selection starting from the blue player |
+| Sapphire 1.07c XH | XH (XL+U for Sapphire XL) |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |                    Bidding                     |
+|    Spider 2.3b    |           XL+U            |        2(+6)        |  Medium   |      Strong      |    160%    | 18:00+07:30+01:15 |        121         |                     Random                     |
 
 3. The selection of computer players' towns through bidding, should be carried out after players' town bidding and proceeds as follows:
 
